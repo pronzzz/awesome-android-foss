@@ -153,6 +153,45 @@
   </div>
 </td>
 </tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/talawa.png" width="64" alt="talawa" />
+    <h3>talawa</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Community Organization Management Software. Click on the ...</p>
+    <a href="https://github.com/PalisadoesFoundation/talawa">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/notes.png" width="64" alt="Notes" />
+    <h3>Notes</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A simple text field for adding quick notes without ads.</p>
+    <a href="https://github.com/FossifyOrg/Notes">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/dragon_store.png" width="64" alt="dragon-store" />
+    <h3>dragon-store</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Dragon Store is your gateway to transparent, libre and fr...</p>
+    <a href="https://github.com/jpdoshi/dragon-store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
 </table>
 
 </details>
