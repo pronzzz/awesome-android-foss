@@ -7,7 +7,7 @@
 <p>
 <img src="https://img.shields.io/badge/Maintained%3F-YES-green?style=for-the-badge" alt="Maintained">
 <a href="data/stats.json">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpronzzz%2Fawesome-foss-android-apps%2Fmain%2Fdata%2Fstats.json&query=%24.apps&label=Apps&style=for-the-badge&color=blue" alt="Apps count">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpronzzz%2Fawesome-android-foss%2Fmain%2Fdata%2Fstats.json&query=%24.apps&label=Apps&style=for-the-badge&color=blue" alt="Apps count">
 </a>
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
 </p>
@@ -24,7 +24,7 @@
 <tr>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=NetGuard" width="64" alt="NetGuard" />
+    <img src="assets/icons/netguard.png" width="64" alt="NetGuard" />
     <h3>NetGuard</h3>
     <code>[Firewall]</code>
     <br/>
@@ -36,7 +36,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=TrackerControl" width="64" alt="TrackerControl" />
+    <img src="assets/icons/trackercontrol.png" width="64" alt="TrackerControl" />
     <h3>TrackerControl</h3>
     <code>[Privacy]</code>
     <br/>
@@ -83,7 +83,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=Fossify+Gallery" width="64" alt="Fossify Gallery" />
+    <img src="assets/icons/fossify_gallery.png" width="64" alt="Fossify Gallery" />
     <h3>Fossify Gallery</h3>
     <code>[Photos]</code>
     <br/>
@@ -165,7 +165,7 @@
 <tr>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=Neo+Launcher" width="64" alt="Neo Launcher" />
+    <img src="assets/icons/neo_launcher.png" width="64" alt="Neo Launcher" />
     <h3>Neo Launcher</h3>
     <code>[Modern]</code>
     <br/>
@@ -198,5 +198,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pronzzz/awesome-foss-android-apps/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/pronzzz/awesome-android-foss/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
