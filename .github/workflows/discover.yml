@@ -1,0 +1,38 @@
+name: Monthly App Discovery
+
+on:
+  schedule:
+    # Run at 00:00 on the 1st of every month
+    - cron: '0 0 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          
+      - name: Run Discovery Script
+        run: node scripts/discover.js
+        
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "chore: monthly app discovery"
+          title: "🕵️ Monthly App Discoveries"
+          body: |
+            Here are the potential new Android apps discovered this month.
+            
+            Please review `DISCOVERIES.md` and manually add the best apps to the `README.md` grid.
+          branch: app-discovery
+          base: main
+          add-paths: DISCOVERIES.md
