@@ -1,3 +1,5 @@
+# Awesome Open Source Android Apps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=De-Googling+your+life...;Finding+privacy...;Awesome+Android+Apps" alt="Typing SVG" />
