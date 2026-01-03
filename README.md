@@ -5,7 +5,7 @@
 <p>
 <img src="https://img.shields.io/badge/Maintained%3F-YES-green?style=for-the-badge" alt="Maintained">
 <a href="data/stats.json">
-<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpranavdwivedi%2Fawesome-open-source-android-apps%2Fmain%2Fdata%2Fstats.json&query=%24.apps&label=Apps&style=for-the-badge&color=blue" alt="Apps count">
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fpronzzz%2Fawesome-foss-android-apps%2Fmain%2Fdata%2Fstats.json&query=%24.apps&label=Apps&style=for-the-badge&color=blue" alt="Apps count">
 </a>
 <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" alt="License">
 </p>
@@ -15,7 +15,7 @@
 ---
 
 <details open>
-<summary>🔒 Privacy<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1bnU5ZnVqZm54YWR4Y3Z5YnU5ZnVqZm54YWR4Y3Z5YnU5ZnVqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LcfBVP8rnKXgk/giphy.gif" height="30" alt="Privacy GIF"></summary>
+<summary>🔒 Privacy <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Privacy" width="30" height="30" /></summary>
 <br>
 
 <table width="100%">
@@ -62,7 +62,7 @@
 </details>
 
 <details>
-<summary>▶️ Media<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1bnU5ZnVqZm54YWR4Y3Z5YnU5ZnVqZm54YWR4Y3Z5YnU5ZnVqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13BbRgqCODShKE/giphy.gif" height="30" alt="Media GIF"></summary>
+<summary>▶️ Media <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Clapper%20Board.png" alt="Media" width="30" height="30" /></summary>
 <br>
 
 <table width="100%">
@@ -109,7 +109,7 @@
 </details>
 
 <details>
-<summary>⚙️ System<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Q1bnU5ZnVqZm54YWR4Y3Z5YnU5ZnVqZm54YWR4Y3Z5YnU5ZnVqZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KzGy8h7LeY4Q8/giphy.gif" height="30" alt="System GIF"></summary>
+<summary>⚙️ System <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="System" width="30" height="30" /></summary>
 <br>
 
 <table width="100%">
@@ -196,5 +196,5 @@
 <br/>
 
 <div align="center">
-  <img src="dist/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/pronzzz/awesome-foss-android-apps/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
