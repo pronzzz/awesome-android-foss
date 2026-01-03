@@ -1,0 +1,32 @@
+name: Update Stats and Icons
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          
+      - name: Update Stats
+        run: node scripts/update_stats.js
+        
+      - name: Fetch Icons
+        run: node scripts/fetch_icons.js
+        
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats and icons [skip ci]"
+          file_pattern: "data/stats.json README.md assets/icons/*.png"

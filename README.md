@@ -48,7 +48,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=Tor+Browser" width="64" alt="Tor Browser" />
+    <img src="assets/icons/tor_browser.png" width="64" alt="Tor Browser" />
     <h3>Tor Browser</h3>
     <code>[Browser]</code>
     <br/>
@@ -71,7 +71,7 @@
 <tr>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=NewPipe" width="64" alt="NewPipe" />
+    <img src="assets/icons/newpipe.png" width="64" alt="NewPipe" />
     <h3>NewPipe</h3>
     <code>[YouTube]</code>
     <br/>
@@ -118,7 +118,7 @@
 <tr>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=Termux" width="64" alt="Termux" />
+    <img src="assets/icons/termux.png" width="64" alt="Termux" />
     <h3>Termux</h3>
     <code>[Terminal]</code>
     <br/>
@@ -130,7 +130,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=KeePassDX" width="64" alt="KeePassDX" />
+    <img src="assets/icons/keepassdx.png" width="64" alt="KeePassDX" />
     <h3>KeePassDX</h3>
     <code>[Security]</code>
     <br/>
@@ -142,7 +142,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=F-Droid" width="64" alt="F-Droid" />
+    <img src="assets/icons/f_droid.png" width="64" alt="F-Droid" />
     <h3>F-Droid</h3>
     <code>[Store]</code>
     <br/>
@@ -177,7 +177,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=KISS+Launcher" width="64" alt="KISS Launcher" />
+    <img src="assets/icons/kiss_launcher.png" width="64" alt="KISS Launcher" />
     <h3>KISS Launcher</h3>
     <code>[Minimal]</code>
     <br/>
