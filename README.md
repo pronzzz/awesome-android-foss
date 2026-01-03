@@ -95,7 +95,7 @@
 </td>
 <td width="33%">
   <div align="center">
-    <img src="https://ui-avatars.com/api/?name=VLC" width="64" alt="VLC" />
+    <img src="assets/icons/vlc.png" width="64" alt="VLC" />
     <h3>VLC</h3>
     <code>[Player]</code>
     <br/>
