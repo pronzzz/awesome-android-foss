@@ -178,7 +178,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/dragon_store.png" width="64" alt="dragon-store" />
@@ -187,6 +186,45 @@
     <br/>
     <p>Dragon Store is your gateway to transparent, libre and fr...</p>
     <a href="https://github.com/jpdoshi/dragon-store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/online.png" width="64" alt="online" />
+    <h3>online</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Collabora Online is a collaborative online office suite b...</p>
+    <a href="https://github.com/CollaboraOnline/online">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/weathermaster.png" width="64" alt="WeatherMaster" />
+    <h3>WeatherMaster</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A Weather app for android 🌦🌞☔</p>
+    <a href="https://github.com/PranshulGG/WeatherMaster">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/news_android.png" width="64" alt="news-android" />
+    <h3>news-android</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>📱🗞️ Android client for the Nextcloud news/feed reader app</p>
+    <a href="https://github.com/nextcloud/news-android">
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
