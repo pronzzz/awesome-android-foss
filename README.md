@@ -216,7 +216,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/news_android.png" width="64" alt="news-android" />
@@ -228,6 +227,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/oss_weather.png" width="64" alt="oss-weather" />
+    <h3>oss-weather</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>An OSS weather app for iOS/Android</p>
+    <a href="https://github.com/Akylas/oss-weather">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -263,6 +283,36 @@
         <img src="https://img.shields.io/badge/Get%20it-F--Droid-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get it on F-Droid">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/mlauncher.png" width="64" alt="mLauncher" />
+    <h3>mLauncher</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Minimal Launcher app for Android. Customized olauncher as...</p>
+    <a href="https://github.com/CodeWorksCreativeHub/mLauncher">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/composemediaplayer.png" width="64" alt="ComposeMediaPlayer" />
+    <h3>ComposeMediaPlayer</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Compose Media Player is a video player library designed f...</p>
+    <a href="https://github.com/kdroidFilter/ComposeMediaPlayer">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
