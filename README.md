@@ -59,6 +59,27 @@
   </div>
 </td>
 </tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/toolneuron.png" width="64" alt="ToolNeuron" />
+    <h3>ToolNeuron</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Complete offline AI ecosystem for Android: Chat (GGUF/LLM...</p>
+    <a href="https://github.com/Siddhesh2377/ToolNeuron">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+</tr>
 </table>
 
 </details>
@@ -104,6 +125,27 @@
         <img src="https://img.shields.io/badge/Get%20it-F--Droid-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Get it on F-Droid">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/tempus.png" width="64" alt="tempus" />
+    <h3>tempus</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>An open source and lightweight music client for Subsonic,...</p>
+    <a href="https://github.com/eddyizm/tempus">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -230,7 +272,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/oss_weather.png" width="64" alt="oss-weather" />
@@ -243,8 +284,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/android.png" width="64" alt="android" />
+    <h3>android</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>📱 Nextcloud Android app</p>
+    <a href="https://github.com/nextcloud/android">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
