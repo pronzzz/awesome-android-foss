@@ -60,7 +60,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/toolneuron.png" width="64" alt="ToolNeuron" />
@@ -73,8 +72,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/urik.png" width="64" alt="Urik" />
+    <h3>Urik</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Privacy-focused Android keyboard with swipe typing, custo...</p>
+    <a href="https://github.com/urikdev/Urik">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -284,7 +293,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/android.png" width="64" alt="android" />
@@ -297,8 +305,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/diligentfx.png" width="64" alt="DiligentFX" />
+    <h3>DiligentFX</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>High-level rendering components</p>
+    <a href="https://github.com/DiligentGraphics/DiligentFX">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -349,7 +367,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/composemediaplayer.png" width="64" alt="ComposeMediaPlayer" />
@@ -362,8 +379,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/github_store.png" width="64" alt="Github-Store" />
+    <h3>Github-Store</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>A free, open-source app store for GitHub releases — brows...</p>
+    <a href="https://github.com/rainxchzed/Github-Store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
