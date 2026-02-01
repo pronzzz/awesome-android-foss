@@ -305,7 +305,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/diligentfx.png" width="64" alt="DiligentFX" />
@@ -314,6 +313,45 @@
     <br/>
     <p>High-level rendering components</p>
     <a href="https://github.com/DiligentGraphics/DiligentFX">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/keyboard.png" width="64" alt="Keyboard" />
+    <h3>Keyboard</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Easy keyboard for inserting all kinds of texts, special c...</p>
+    <a href="https://github.com/FossifyOrg/Keyboard">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/commons.png" width="64" alt="commons" />
+    <h3>commons</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Some helper functions and shared resources used by the Fo...</p>
+    <a href="https://github.com/FossifyOrg/commons">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/voice_recorder.png" width="64" alt="Voice-Recorder" />
+    <h3>Voice-Recorder</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>An easy way of recording any discussion or sounds without...</p>
+    <a href="https://github.com/FossifyOrg/Voice-Recorder">
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
