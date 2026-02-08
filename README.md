@@ -343,7 +343,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/voice_recorder.png" width="64" alt="Voice-Recorder" />
@@ -352,6 +351,45 @@
     <br/>
     <p>An easy way of recording any discussion or sounds without...</p>
     <a href="https://github.com/FossifyOrg/Voice-Recorder">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/phone.png" width="64" alt="Phone" />
+    <h3>Phone</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A handy phone call manager with phonebook, number blockin...</p>
+    <a href="https://github.com/FossifyOrg/Phone">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/paint.png" width="64" alt="Paint" />
+    <h3>Paint</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A canvas you can draw on with different colors.</p>
+    <a href="https://github.com/FossifyOrg/Paint">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/messages.png" width="64" alt="Messages" />
+    <h3>Messages</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>An easy and quick way of managing SMS and MMS messages wi...</p>
+    <a href="https://github.com/FossifyOrg/Messages">
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
