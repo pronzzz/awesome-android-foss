@@ -72,7 +72,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/urik.png" width="64" alt="Urik" />
@@ -84,6 +83,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/flux.png" width="64" alt="Flux" />
+    <h3>Flux</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Flux: Jetpack Compose with Material 3, MVI based applicat...</p>
+    <a href="https://github.com/chindaronit/Flux">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/monica.png" width="64" alt="Monica" />
+    <h3>Monica</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Password Management, 2FA Generator</p>
+    <a href="https://github.com/JoyinJoester/Monica">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -381,7 +410,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/messages.png" width="64" alt="Messages" />
@@ -393,6 +421,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/timer_machine_android.png" width="64" alt="timer-machine-android" />
+    <h3>timer-machine-android</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>⏲ A highly customizable interval timer app for Android</p>
+    <a href="https://github.com/timer-machine/timer-machine-android">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
