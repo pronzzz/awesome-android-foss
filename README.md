@@ -166,7 +166,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/tempus.png" width="64" alt="tempus" />
@@ -180,10 +179,29 @@
   </div>
 </td>
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/ensemble.png" width="64" alt="Ensemble" />
+    <h3>Ensemble</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A minimalistic Android client for Music Assistant - strea...</p>
+    <a href="https://github.com/CollotsSpot/Ensemble">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/flow.png" width="64" alt="Flow" />
+    <h3>Flow</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A modern, feature-rich YouTube client for Android built w...</p>
+    <a href="https://github.com/A-EDev/Flow">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -424,7 +442,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/timer_machine_android.png" width="64" alt="timer-machine-android" />
@@ -437,8 +454,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/measure.png" width="64" alt="measure" />
+    <h3>measure</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Measure is an open-source tool to monitor mobile apps. We...</p>
+    <a href="https://github.com/measure-sh/measure">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
