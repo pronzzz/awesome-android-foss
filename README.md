@@ -98,7 +98,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/monica.png" width="64" alt="Monica" />
@@ -111,8 +110,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/file_manager.png" width="64" alt="File-Manager" />
+    <h3>File-Manager</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Easy app for managing your files without ads, respecting ...</p>
+    <a href="https://github.com/FossifyOrg/File-Manager">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -190,7 +199,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/flow.png" width="64" alt="Flow" />
@@ -202,6 +210,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/music_player.png" width="64" alt="Music-Player" />
+    <h3>Music-Player</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A clean music player with a customizable widget, stylish ...</p>
+    <a href="https://github.com/FossifyOrg/Music-Player">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -454,7 +483,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/measure.png" width="64" alt="measure" />
@@ -467,8 +495,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/contacts.png" width="64" alt="Contacts" />
+    <h3>Contacts</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Easy and quick contact management with no ads, handles gr...</p>
+    <a href="https://github.com/FossifyOrg/Contacts">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
