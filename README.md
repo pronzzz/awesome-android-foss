@@ -110,7 +110,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/file_manager.png" width="64" alt="File-Manager" />
@@ -123,8 +122,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/super_productivity.png" width="64" alt="super-productivity" />
+    <h3>super-productivity</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Super Productivity is an advanced todo list app with inte...</p>
+    <a href="https://github.com/super-productivity/super-productivity">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -213,7 +222,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/music_player.png" width="64" alt="Music-Player" />
@@ -226,8 +234,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/talk_android.png" width="64" alt="talk-android" />
+    <h3>talk-android</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>📱😀 Video &amp; audio calls through Nextcloud on Android</p>
+    <a href="https://github.com/nextcloud/talk-android">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -569,7 +587,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/github_store.png" width="64" alt="Github-Store" />
@@ -582,8 +599,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/github_store.png" width="64" alt="GitHub-Store" />
+    <h3>GitHub-Store</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>A free, open-source app store for GitHub releases — brows...</p>
+    <a href="https://github.com/OpenHub-Store/GitHub-Store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
