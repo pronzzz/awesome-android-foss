@@ -513,7 +513,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/contacts.png" width="64" alt="Contacts" />
@@ -525,6 +524,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/calendar.png" width="64" alt="Calendar" />
+    <h3>Calendar</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A simple calendar with events, customizable widgets and n...</p>
+    <a href="https://github.com/FossifyOrg/Calendar">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/clock.png" width="64" alt="Clock" />
+    <h3>Clock</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Combination of a beautiful clock with widget, alarm, stop...</p>
+    <a href="https://github.com/FossifyOrg/Clock">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -599,7 +628,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/github_store.png" width="64" alt="GitHub-Store" />
@@ -611,6 +639,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/launcher.png" width="64" alt="Launcher" />
+    <h3>Launcher</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>A practical and customizable launcher for launching your ...</p>
+    <a href="https://github.com/FossifyOrg/Launcher">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
