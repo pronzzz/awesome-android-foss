@@ -539,7 +539,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/clock.png" width="64" alt="Clock" />
@@ -551,6 +550,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/sabbath_school_android.png" width="64" alt="sabbath-school-android" />
+    <h3>sabbath-school-android</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>📗 Sabbath School for Android</p>
+    <a href="https://github.com/Adventech/sabbath-school-android">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/openclaw_assistant.png" width="64" alt="openclaw-assistant" />
+    <h3>openclaw-assistant</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>OpenClaw voice assistant app for Android - Wake word acti...</p>
+    <a href="https://github.com/yuga-hashimoto/openclaw-assistant">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -642,7 +671,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/launcher.png" width="64" alt="Launcher" />
@@ -655,8 +683,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/easylauncher.png" width="64" alt="EasyLauncher" />
+    <h3>EasyLauncher</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>EasyLauncher - Minimal and Clutter Free Android launcher</p>
+    <a href="https://github.com/CodeWorksCreativeHub/EasyLauncher">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
