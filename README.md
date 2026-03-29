@@ -122,7 +122,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/super_productivity.png" width="64" alt="super-productivity" />
@@ -134,6 +133,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/calculator_hide_files.png" width="64" alt="Calculator-Hide-Files" />
+    <h3>Calculator-Hide-Files</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Open-source Android vault app to hide photos, videos, aud...</p>
+    <a href="https://github.com/Binondi/Calculator-Hide-Files">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -234,7 +254,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/talk_android.png" width="64" alt="talk-android" />
@@ -247,8 +266,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/camera.png" width="64" alt="Camera" />
+    <h3>Camera</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Quick photo and video camera with a flash, customizable a...</p>
+    <a href="https://github.com/FossifyOrg/Camera">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -565,7 +594,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/openclaw_assistant.png" width="64" alt="openclaw-assistant" />
@@ -578,8 +606,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/thank_you.png" width="64" alt="Thank-You" />
+    <h3>Thank-You</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A warm Thank You for supporting our modern &amp; easy Fossify...</p>
+    <a href="https://github.com/FossifyOrg/Thank-You">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
