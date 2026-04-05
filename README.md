@@ -136,7 +136,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/calculator_hide_files.png" width="64" alt="Calculator-Hide-Files" />
@@ -149,8 +148,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/kashcal.png" width="64" alt="KashCal" />
+    <h3>KashCal</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Offline-first Android calendar with CalDAV sync: iCloud, ...</p>
+    <a href="https://github.com/KashCal/KashCal">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -266,7 +275,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/camera.png" width="64" alt="Camera" />
@@ -278,6 +286,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/aos_avp.png" width="64" alt="aos-AVP" />
+    <h3>aos-AVP</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>NOVA opeN sOurce Video plAyer: main repository to build t...</p>
+    <a href="https://github.com/nova-video-player/aos-AVP">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -606,7 +635,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/thank_you.png" width="64" alt="Thank-You" />
@@ -619,8 +647,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/calculator.png" width="64" alt="Calculator" />
+    <h3>Calculator</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A calculator for quick simple calculations with a nice us...</p>
+    <a href="https://github.com/FossifyOrg/Calculator">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
