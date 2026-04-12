@@ -148,7 +148,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/kashcal.png" width="64" alt="KashCal" />
@@ -161,8 +160,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/android_foss.png" width="64" alt="android-foss" />
+    <h3>android-foss</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>A list of Free and Open Source Software (FOSS) for Androi...</p>
+    <a href="https://github.com/offa/android-foss">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -289,7 +298,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/aos_avp.png" width="64" alt="aos-AVP" />
@@ -302,8 +310,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/monodev_music_client.png" width="64" alt="monodev-music-client" />
+    <h3>monodev-music-client</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A modern Android music client with clean UI and native co...</p>
+    <a href="https://github.com/MonoDevHQ/monodev-music-client">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -647,7 +665,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/calculator.png" width="64" alt="Calculator" />
@@ -659,6 +676,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/gradle_license_plugin.png" width="64" alt="gradle-license-plugin" />
+    <h3>gradle-license-plugin</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Gradle plugin that provides a task to generate a HTML lic...</p>
+    <a href="https://github.com/jaredsburrows/gradle-license-plugin">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
