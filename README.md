@@ -160,7 +160,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/android_foss.png" width="64" alt="android-foss" />
@@ -172,6 +171,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/pdf_tools.png" width="64" alt="Pdf_Tools" />
+    <h3>Pdf_Tools</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Privacy-first, offline PDF editor for Android. Merge, spl...</p>
+    <a href="https://github.com/Karna14314/Pdf_Tools">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/opennutritracker.png" width="64" alt="OpenNutriTracker" />
+    <h3>OpenNutriTracker</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>🍴 OpenNutriTracker is a free and open source calorie tra...</p>
+    <a href="https://github.com/simonoppowa/OpenNutriTracker">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -679,7 +708,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/gradle_license_plugin.png" width="64" alt="gradle-license-plugin" />
@@ -692,8 +720,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/nphonekit.png" width="64" alt="nPhoneKIT" />
+    <h3>nPhoneKIT</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A fully open-source and powerful toolbox for Android devi...</p>
+    <a href="https://github.com/nlckysolutions/nPhoneKIT">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
