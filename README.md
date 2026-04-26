@@ -186,7 +186,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/opennutritracker.png" width="64" alt="OpenNutriTracker" />
@@ -199,8 +198,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/iyps.png" width="64" alt="IYPS" />
+    <h3>IYPS</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>A password strength app that evaluates and rates your pas...</p>
+    <a href="https://github.com/StellarSand/IYPS">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -720,7 +729,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/nphonekit.png" width="64" alt="nPhoneKIT" />
@@ -733,8 +741,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/finalrun_agent.png" width="64" alt="finalrun-agent" />
+    <h3>finalrun-agent</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>AI QA Agent for mobile apps</p>
+    <a href="https://github.com/final-run/finalrun-agent">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -835,7 +853,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/easylauncher.png" width="64" alt="EasyLauncher" />
@@ -848,8 +865,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/ltvlauncher.png" width="64" alt="LtvLauncher" />
+    <h3>LtvLauncher</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>A minimal, open-source Android TV launcher featuring WiFi...</p>
+    <a href="https://github.com/LeanBitLab/LtvLauncher">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
