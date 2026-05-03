@@ -198,7 +198,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/iyps.png" width="64" alt="IYPS" />
@@ -210,6 +209,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/robota_liberated.png" width="64" alt="Robota-Liberated" />
+    <h3>Robota-Liberated</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>The Android you own, not the one that owns you.</p>
+    <a href="https://github.com/hakerdefo/Robota-Liberated">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/fud_ai.png" width="64" alt="fud-ai" />
+    <h3>fud-ai</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Fud AI is a Free &amp; Open Sourced AI Calorie Tracker for iO...</p>
+    <a href="https://github.com/apoorvdarshan/fud-ai">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -348,7 +377,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/monodev_music_client.png" width="64" alt="monodev-music-client" />
@@ -361,8 +389,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/stash.png" width="64" alt="Stash" />
+    <h3>Stash</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Your Spotify + YouTube Music library &amp; daily mixes, downl...</p>
+    <a href="https://github.com/rawnaldclark/Stash">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
