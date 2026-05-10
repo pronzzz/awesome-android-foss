@@ -224,7 +224,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/fud_ai.png" width="64" alt="fud-ai" />
@@ -237,8 +236,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/rethink_app.png" width="64" alt="rethink-app" />
+    <h3>rethink-app</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuar...</p>
+    <a href="https://github.com/celzero/rethink-app">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -903,7 +912,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/ltvlauncher.png" width="64" alt="LtvLauncher" />
@@ -915,6 +923,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/pipixiv.png" width="64" alt="PiPixiv" />
+    <h3>PiPixiv</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>一个使用Compose Multiplatform开发的第三方Pixiv客户端，支持国内直连</p>
+    <a href="https://github.com/darriousliu/PiPixiv">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
