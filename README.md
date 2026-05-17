@@ -236,7 +236,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/rethink_app.png" width="64" alt="rethink-app" />
@@ -248,6 +247,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/password_monitor.png" width="64" alt="Password-Monitor" />
+    <h3>Password-Monitor</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Ensure your password safety by scanning in data breaches. </p>
+    <a href="https://github.com/StellarSand/Password-Monitor">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -788,7 +808,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/finalrun_agent.png" width="64" alt="finalrun-agent" />
@@ -800,6 +819,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/lexica.png" width="64" alt="lexica" />
+    <h3>lexica</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Word Game for Android - A fork of lexic (https://code.goo...</p>
+    <a href="https://github.com/lexica/lexica">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/oss_weather.png" width="64" alt="oss-weather" />
+    <h3>oss-weather</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>An OSS weather app for iOS/Android</p>
+    <a href="https://github.com/ossappscollective/oss-weather">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
