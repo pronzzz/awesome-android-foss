@@ -418,7 +418,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/stash.png" width="64" alt="Stash" />
@@ -430,6 +429,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/undeadwallpaper.png" width="64" alt="UndeadWallpaper" />
+    <h3>UndeadWallpaper</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Turn any video on your phone into a seamless live wallpap...</p>
+    <a href="https://github.com/maocide/UndeadWallpaper">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -834,7 +854,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/oss_weather.png" width="64" alt="oss-weather" />
@@ -847,8 +866,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/klyx.png" width="64" alt="klyx" />
+    <h3>klyx</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Klyx is a lightweight, high-performance code editor for A...</p>
+    <a href="https://github.com/klyx-dev/klyx">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
