@@ -866,7 +866,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/klyx.png" width="64" alt="klyx" />
@@ -878,6 +877,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/plexus_app.png" width="64" alt="Plexus-app" />
+    <h3>Plexus-app</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Remove the fear of Android app compatibility on de-Google...</p>
+    <a href="https://github.com/techlore/Plexus-app">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/drinkable.png" width="64" alt="drinkable" />
+    <h3>drinkable</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Drinkable is an app which help you find cocktails that yo...</p>
+    <a href="https://github.com/MOIMOB/drinkable">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -1004,7 +1033,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/pipixiv.png" width="64" alt="PiPixiv" />
@@ -1017,8 +1045,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/prism.png" width="64" alt="Prism" />
+    <h3>Prism</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Prism is an open-source Flutter wallpapers and home scree...</p>
+    <a href="https://github.com/Hash-Studios/Prism">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
