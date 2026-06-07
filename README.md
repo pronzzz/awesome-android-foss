@@ -250,7 +250,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/password_monitor.png" width="64" alt="Password-Monitor" />
@@ -263,8 +262,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/monica.png" width="64" alt="Monica" />
+    <h3>Monica</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p> Monica Pass，Password Management, 2FA Generator</p>
+    <a href="https://github.com/Monica-Pass/Monica">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -892,7 +901,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/drinkable.png" width="64" alt="drinkable" />
@@ -904,6 +912,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/nextcloud_cookbook.png" width="64" alt="nextcloud-cookbook" />
+    <h3>nextcloud-cookbook</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Android client for Nextcloud Cookbook app.</p>
+    <a href="https://github.com/lneugebauer/nextcloud-cookbook">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/flashlight.png" width="64" alt="Flashlight" />
+    <h3>Flashlight</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A simple modern flashlight with SOS, stroboscope &amp; bright...</p>
+    <a href="https://github.com/FossifyOrg/Flashlight">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
