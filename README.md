@@ -262,7 +262,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/monica.png" width="64" alt="Monica" />
@@ -275,8 +274,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/paperknife.png" width="64" alt="PaperKnife" />
+    <h3>PaperKnife</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Privacy-first PDF utility (Zero-Server Architecture). Mer...</p>
+    <a href="https://github.com/potatameister/PaperKnife">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -927,7 +936,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/flashlight.png" width="64" alt="Flashlight" />
@@ -940,8 +948,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/adaptive_theme.png" width="64" alt="Adaptive-Theme" />
+    <h3>Adaptive-Theme</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>💡 Auto dark mode based on ambient light sensor for Android.</p>
+    <a href="https://github.com/xLexip/Adaptive-Theme">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -1083,7 +1101,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/prism.png" width="64" alt="Prism" />
@@ -1096,8 +1113,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/komi_store.png" width="64" alt="komi-store" />
+    <h3>komi-store</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>🩵 A free, open-source app store for developers&#039; releases...</p>
+    <a href="https://github.com/kurikomi-labs/komi-store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
