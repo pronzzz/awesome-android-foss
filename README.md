@@ -274,7 +274,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/paperknife.png" width="64" alt="PaperKnife" />
@@ -286,6 +285,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/safehaven_store.png" width="64" alt="SafeHaven-Store" />
+    <h3>SafeHaven-Store</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Open-Source alternative app store for Android aimed to pr...</p>
+    <a href="https://github.com/phsycologicalFudge/SafeHaven-Store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -948,7 +968,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/adaptive_theme.png" width="64" alt="Adaptive-Theme" />
@@ -960,6 +979,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/xszn_github_io.png" width="64" alt="xszn.github.io" />
+    <h3>xszn.github.io</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A List of Free and Open-Source Software</p>
+    <a href="https://github.com/xszn/xszn.github.io">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/orange_cloud.png" width="64" alt="orange-cloud" />
+    <h3>orange-cloud</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Open-source native Cloudflare client for iPhone, iPad &amp; A...</p>
+    <a href="https://github.com/chen2he/orange-cloud">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
