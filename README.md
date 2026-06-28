@@ -470,7 +470,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/undeadwallpaper.png" width="64" alt="UndeadWallpaper" />
@@ -483,8 +482,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/kivmob.png" width="64" alt="KivMob" />
+    <h3>KivMob</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>AdMob support for Kivy</p>
+    <a href="https://github.com/MichaelStott/KivMob">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -994,7 +1003,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/orange_cloud.png" width="64" alt="orange-cloud" />
@@ -1008,10 +1016,29 @@
   </div>
 </td>
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/openphone.png" width="64" alt="OpenPhone" />
+    <h3>OpenPhone</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>AI-first open source operating system for various devices...</p>
+    <a href="https://github.com/secondly-com/OpenPhone">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/puzzle.png" width="64" alt="Puzzle" />
+    <h3>Puzzle</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A suite of 270+ minimalist puzzle games built with Flutte...</p>
+    <a href="https://github.com/sidhant947/Puzzle">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
