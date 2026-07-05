@@ -482,7 +482,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/kivmob.png" width="64" alt="KivMob" />
@@ -495,8 +494,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/mobile_sim_streamer.png" width="64" alt="mobile-sim-streamer" />
+    <h3>mobile-sim-streamer</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Self-Hosted Mobile Device Streaming for QA Teams 2026</p>
+    <a href="https://github.com/2501035-wq/mobile-sim-streamer">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1027,7 +1036,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/puzzle.png" width="64" alt="Puzzle" />
@@ -1039,6 +1047,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/nh_doujinshi_reader.png" width="64" alt="nh-doujinshi-reader" />
+    <h3>nh-doujinshi-reader</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Nhentai Companion 2026: Modern &amp; Lightweight Doujinshi Cl...</p>
+    <a href="https://github.com/a0926499300/nh-doujinshi-reader">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -1189,7 +1218,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/komi_store.png" width="64" alt="komi-store" />
@@ -1201,6 +1229,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/launcher314.png" width="64" alt="Launcher314" />
+    <h3>Launcher314</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Launcher with deep customization on a single screen</p>
+    <a href="https://github.com/bearinmindcat/Launcher314">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
