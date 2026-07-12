@@ -1050,7 +1050,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/nh_doujinshi_reader.png" width="64" alt="nh-doujinshi-reader" />
@@ -1064,10 +1063,29 @@
   </div>
 </td>
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/android_agent.png" width="64" alt="android-agent" />
+    <h3>android-agent</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Open-source Android device automation framework — control...</p>
+    <a href="https://github.com/ghost-in-the-droid/android-agent">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/android_prince_of_versions.png" width="64" alt="Android-Prince-of-Versions" />
+    <h3>Android-Prince-of-Versions</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Android library for handling application updates.</p>
+    <a href="https://github.com/infinum/Android-Prince-of-Versions">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1232,7 +1250,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/launcher314.png" width="64" alt="Launcher314" />
@@ -1245,8 +1262,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/alt_sendme.png" width="64" alt="alt-sendme" />
+    <h3>alt-sendme</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Send files and folders anywhere in the world without stor...</p>
+    <a href="https://github.com/tonyantony300/alt-sendme">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
