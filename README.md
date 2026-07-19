@@ -288,7 +288,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/safehaven_store.png" width="64" alt="SafeHaven-Store" />
@@ -301,8 +300,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/privacium.png" width="64" alt="Privacium" />
+    <h3>Privacium</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>A simple app for discovering tools that respects your pri...</p>
+    <a href="https://github.com/kaleedtc/Privacium">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -494,7 +503,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/mobile_sim_streamer.png" width="64" alt="mobile-sim-streamer" />
@@ -506,6 +514,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/tapflow.png" width="64" alt="tapflow" />
+    <h3>tapflow</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Self-hosted iOS &amp; Android simulator streaming for the who...</p>
+    <a href="https://github.com/jo-duchan/tapflow">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -1074,7 +1103,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/android_prince_of_versions.png" width="64" alt="Android-Prince-of-Versions" />
@@ -1086,6 +1114,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/electerm.png" width="64" alt="electerm" />
+    <h3>electerm</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>📻Terminal/ssh/sftp/ftp/telnet/serialport/RDP/VNC/Spice c...</p>
+    <a href="https://github.com/electerm/electerm">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
