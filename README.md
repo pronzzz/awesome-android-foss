@@ -1117,7 +1117,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/electerm.png" width="64" alt="electerm" />
@@ -1131,10 +1130,29 @@
   </div>
 </td>
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/finalrun_agent.png" width="64" alt="finalrun-agent" />
+    <h3>finalrun-agent</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>AI QA Agent for mobile apps</p>
+    <a href="https://github.com/droid-ash/finalrun-agent">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/fossifyorg_github_io.png" width="64" alt="fossifyorg.github.io" />
+    <h3>fossifyorg.github.io</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>The projects&#039; website</p>
+    <a href="https://github.com/FossifyOrg/fossifyorg.github.io">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1311,7 +1329,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/alt_sendme.png" width="64" alt="alt-sendme" />
@@ -1324,8 +1341,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/mako.png" width="64" alt="mako" />
+    <h3>mako</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Minimal, privacy-first Android launcher designed for focu...</p>
+    <a href="https://github.com/rama-io/mako">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
