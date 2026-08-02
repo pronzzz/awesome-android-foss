@@ -300,7 +300,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/privacium.png" width="64" alt="Privacium" />
@@ -312,6 +311,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/mhabit.png" width="64" alt="mhabit" />
+    <h3>mhabit</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Open-source Flutter habit tracker with smart scoring, Web...</p>
+    <a href="https://github.com/FriesI23/mhabit">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/caffeinehealth.png" width="64" alt="CaffeineHealth" />
+    <h3>CaffeineHealth</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Track your caffeine. Protect your sleep. A privacy-first ...</p>
+    <a href="https://github.com/ohuc/CaffeineHealth">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -1141,7 +1170,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/fossifyorg_github_io.png" width="64" alt="fossifyorg.github.io" />
@@ -1153,6 +1181,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/aura_wallet.png" width="64" alt="aura-wallet" />
+    <h3>aura-wallet</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Open-source self-custody Bitcoin wallet for iOS and Andro...</p>
+    <a href="https://github.com/aurabitcoinwallet/aura-wallet">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
