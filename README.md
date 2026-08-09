@@ -1184,7 +1184,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/aura_wallet.png" width="64" alt="aura-wallet" />
@@ -1197,8 +1196,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/hermes_relay.png" width="64" alt="hermes-relay" />
+    <h3>hermes-relay</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Hermes-Relay — Your Hermes AI agent, in your pocket — cha...</p>
+    <a href="https://github.com/Codename-11/hermes-relay">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
