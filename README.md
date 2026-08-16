@@ -546,7 +546,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/tapflow.png" width="64" alt="tapflow" />
@@ -559,8 +558,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/owntv.png" width="64" alt="OwnTV" />
+    <h3>OwnTV</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Native Android TV IPTV player — Kotlin, Compose for TV, E...</p>
+    <a href="https://github.com/ahXN00/OwnTV">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -1196,7 +1205,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/hermes_relay.png" width="64" alt="hermes-relay" />
@@ -1209,8 +1217,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/sesori_apps_monorepo.png" width="64" alt="sesori_apps_monorepo" />
+    <h3>sesori_apps_monorepo</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Sesori iOS/Android app and the Sesori Bridge CLI — drive ...</p>
+    <a href="https://github.com/sesori-ai/sesori_apps_monorepo">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1399,7 +1417,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/mako.png" width="64" alt="mako" />
@@ -1411,6 +1428,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/ltvlauncher.png" width="64" alt="LtvLauncher" />
+    <h3>LtvLauncher</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>A minimal, open-source Android TV launcher featuring WiFi...</p>
+    <a href="https://github.com/leanbitlab-org/LtvLauncher">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
