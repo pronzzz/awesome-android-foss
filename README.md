@@ -326,7 +326,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/caffeinehealth.png" width="64" alt="CaffeineHealth" />
@@ -340,10 +339,29 @@
   </div>
 </td>
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/flexify.png" width="64" alt="Flexify" />
+    <h3>Flexify</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Offline-first workout tracker for strength and cardio, wi...</p>
+    <a href="https://github.com/brandonp2412/Flexify">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/fitbook.png" width="64" alt="FitBook" />
+    <h3>FitBook</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Offline-first calorie and nutrition tracker with barcode ...</p>
+    <a href="https://github.com/brandonp2412/FitBook">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1217,7 +1235,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/sesori_apps_monorepo.png" width="64" alt="sesori_apps_monorepo" />
@@ -1229,6 +1246,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/hilight_studio.png" width="64" alt="hilight-studio" />
+    <h3>hilight-studio</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Experimental Pixel 11 HiLight LED controller for Android 17.</p>
+    <a href="https://github.com/DhananjayBhosale/hilight-studio">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
