@@ -350,7 +350,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/fitbook.png" width="64" alt="FitBook" />
@@ -362,6 +361,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/quitter.png" width="64" alt="Quitter" />
+    <h3>Quitter</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Private, offline addiction-recovery and sobriety tracker ...</p>
+    <a href="https://github.com/brandonp2412/Quitter">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -1249,7 +1269,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/hilight_studio.png" width="64" alt="hilight-studio" />
@@ -1262,8 +1281,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/internetradio.png" width="64" alt="InternetRadio" />
+    <h3>InternetRadio</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Discover and listen to thousands of free internet radio s...</p>
+    <a href="https://github.com/armanmaurya/InternetRadio">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -1469,7 +1498,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/ltvlauncher.png" width="64" alt="LtvLauncher" />
@@ -1482,8 +1510,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/nc_native.png" width="64" alt="nc-native" />
+    <h3>nc-native</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Adaptive native Nextcloud client for mobile and desktop, ...</p>
+    <a href="https://github.com/Obiente/nc-native">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
