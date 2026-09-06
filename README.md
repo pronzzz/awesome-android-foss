@@ -364,7 +364,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/quitter.png" width="64" alt="Quitter" />
@@ -377,8 +376,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/termux_app_store.png" width="64" alt="termux-app-store" />
+    <h3>termux-app-store</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>TUI &amp; CLI package manager for Termux on Android. Browse, ...</p>
+    <a href="https://github.com/djunekz/termux-app-store">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -1281,7 +1290,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/internetradio.png" width="64" alt="InternetRadio" />
@@ -1294,8 +1302,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/openpocketcine.png" width="64" alt="OpenPocketCine" />
+    <h3>OpenPocketCine</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Open-source iOS and Android field monitor for DJI Osmo Po...</p>
+    <a href="https://github.com/erik-sutton95/OpenPocketCine">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1510,7 +1528,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/nc_native.png" width="64" alt="nc-native" />
@@ -1523,8 +1540,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/native.png" width="64" alt="native" />
+    <h3>native</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Adaptive native Nextcloud client for mobile and desktop, ...</p>
+    <a href="https://github.com/Obiente/native">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
