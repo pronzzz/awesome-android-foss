@@ -376,7 +376,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/termux_app_store.png" width="64" alt="termux-app-store" />
@@ -388,6 +387,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/relay.png" width="64" alt="relay" />
+    <h3>relay</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>📱 Share your phone&#039;s internet with your PC — Android → W...</p>
+    <a href="https://github.com/Mahdi-mortazavi/relay">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/openreads.png" width="64" alt="openreads" />
+    <h3>openreads</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>A mobile books tracker written in Flutter that respects y...</p>
+    <a href="https://github.com/mateusz-bak/openreads">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -605,7 +634,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/owntv.png" width="64" alt="OwnTV" />
@@ -618,8 +646,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/mpv_infinity.png" width="64" alt="Mpv-infinity" />
+    <h3>Mpv-infinity</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>Ad-free Android media player powered by MPV and Media3.</p>
+    <a href="https://github.com/ZHINFINITY/Mpv-infinity">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
