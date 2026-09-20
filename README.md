@@ -646,7 +646,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/mpv_infinity.png" width="64" alt="Mpv-infinity" />
@@ -658,6 +657,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/resonus.png" width="64" alt="resonus" />
+    <h3>resonus</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A clean Android music player for your self-hosted server,...</p>
+    <a href="https://github.com/juananzzz/resonus">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -1340,7 +1360,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/openpocketcine.png" width="64" alt="OpenPocketCine" />
@@ -1352,6 +1371,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/miffan.png" width="64" alt="Miffan" />
+    <h3>Miffan</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>RikkaHub fork，Android AI 客户端。支持 ChatGPT 订阅登录使用、跨应用划词悬浮翻译、...</p>
+    <a href="https://github.com/Ayuilos/Miffan">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/crossbow.png" width="64" alt="crossbow" />
+    <h3>crossbow</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Cross-Platform build tools and toolkit for games and game...</p>
+    <a href="https://github.com/dodorare/crossbow">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
