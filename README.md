@@ -660,7 +660,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/resonus.png" width="64" alt="resonus" />
@@ -673,8 +672,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/melodia.png" width="64" alt="Melodia" />
+    <h3>Melodia</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>基于 Kotlin + Jetpack Compose 构建的现代化、轻量级第三方网易云音乐客户端。</p>
+    <a href="https://github.com/rinchao0721/Melodia">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -1386,7 +1395,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/crossbow.png" width="64" alt="crossbow" />
@@ -1398,6 +1406,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/pica_library.png" width="64" alt="pica-library" />
+    <h3>pica-library</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Open-source manga library manager, reader &amp; downloader fo...</p>
+    <a href="https://github.com/Saber-Alter-Lily/pica-library">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/freegosy.png" width="64" alt="Freegosy" />
+    <h3>Freegosy</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>A cross-platform Flutter app for browsing RomM libraries,...</p>
+    <a href="https://github.com/abduznik/Freegosy">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
