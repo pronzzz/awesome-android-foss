@@ -1665,7 +1665,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/native.png" width="64" alt="native" />
@@ -1674,6 +1673,45 @@
     <br/>
     <p>Adaptive native Nextcloud client for mobile and desktop, ...</p>
     <a href="https://github.com/Obiente/native">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/mimi.png" width="64" alt="mimi" />
+    <h3>mimi</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>A live subtitle translation app for videos, streams, and ...</p>
+    <a href="https://github.com/yuxino/mimi">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/tapbar.png" width="64" alt="Tapbar" />
+    <h3>Tapbar</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>Launch any app or trigger quick actions from the status b...</p>
+    <a href="https://github.com/Earendel-lab/Tapbar">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/komi_store.png" width="64" alt="komi-store" />
+    <h3>komi-store</h3>
+    <code>[LAUNCHERS]</code>
+    <br/>
+    <p>🩵 A free, open-source app store for developers&#039; releases...</p>
+    <a href="https://github.com/komi-store/komi-store">
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
