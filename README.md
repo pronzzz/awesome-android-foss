@@ -402,7 +402,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/openreads.png" width="64" alt="openreads" />
@@ -415,8 +414,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/documents.png" width="64" alt="Documents" />
+    <h3>Documents</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>A simple and clean document app that protects your privacy</p>
+    <a href="https://github.com/FossifyOrg/Documents">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
@@ -672,7 +681,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/melodia.png" width="64" alt="Melodia" />
@@ -685,8 +693,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/n_zik.png" width="64" alt="N-Zik" />
+    <h3>N-Zik</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A multilingual YouTube Music frontend for Android, focuse...</p>
+    <a href="https://github.com/N-Zik-Group/N-Zik">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
@@ -1421,7 +1439,6 @@
 </td>
 </tr>
 <tr>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/freegosy.png" width="64" alt="Freegosy" />
@@ -1434,8 +1451,18 @@
     </a>
   </div>
 </td>
+
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="assets/icons/awesome_android_apps.png" width="64" alt="awesome-android-apps" />
+    <h3>awesome-android-apps</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>a list of awesome open source android apps 📱</p>
+    <a href="https://github.com/fiedri/awesome-android-apps">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
