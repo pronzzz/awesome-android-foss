@@ -428,7 +428,16 @@
   </div>
 </td>
 <td width="33%">
-  <!-- Empty cell to maintain grid -->
+  <div align="center">
+    <img src="https://ui-avatars.com/api/?name=NIDO" width="64" alt="NIDO" />
+    <h3>NIDO</h3>
+    <code>[PRIVACY]</code>
+    <br/>
+    <p>Privacy-first AI assistant for Android that runs 100% offline.</p>
+    <a href="https://github.com/Nido007-cmyk/Nido">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
 </td>
 </tr>
 </table>
