@@ -693,7 +693,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/n_zik.png" width="64" alt="N-Zik" />
@@ -705,6 +704,27 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/flow.png" width="64" alt="Flow" />
+    <h3>Flow</h3>
+    <code>[MEDIA]</code>
+    <br/>
+    <p>A modern, feature-rich YouTube and YouTube  Music client ...</p>
+    <a href="https://github.com/Flow-Tube/Flow">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 </tr>
 </table>
@@ -1451,7 +1471,6 @@
     </a>
   </div>
 </td>
-
 <td width="33%">
   <div align="center">
     <img src="assets/icons/awesome_android_apps.png" width="64" alt="awesome-android-apps" />
@@ -1463,6 +1482,36 @@
         <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
     </a>
   </div>
+</td>
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/scribe_android.png" width="64" alt="Scribe-Android" />
+    <h3>Scribe-Android</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Scribe-Android: Keyboards for language learners &amp; Conjuga...</p>
+    <a href="https://github.com/scribe-org/Scribe-Android">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+</tr>
+<tr>
+
+<td width="33%">
+  <div align="center">
+    <img src="assets/icons/deepseek_harness_local_android.png" width="64" alt="Deepseek-Harness-Local-Android" />
+    <h3>Deepseek-Harness-Local-Android</h3>
+    <code>[SYSTEM]</code>
+    <br/>
+    <p>Run the DeepSeek Harness AI agent natively on Android — n...</p>
+    <a href="https://github.com/Soodok/Deepseek-Harness-Local-Android">
+        <img src="https://img.shields.io/badge/Source-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source on GitHub">
+    </a>
+  </div>
+</td>
+<td width="33%">
+  <!-- Empty cell to maintain grid -->
 </td>
 <td width="33%">
   <!-- Empty cell to maintain grid -->
