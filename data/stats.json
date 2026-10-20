@@ -1,3 +1,26 @@
 {
-  "apps": 136
+  "apps": 97,
+  "categories": 18,
+  "fdroid": 54,
+  "izzyondroid": 38,
+  "byCategory": {
+    "privacy": 10,
+    "communication": 4,
+    "browsers": 3,
+    "music": 8,
+    "video": 7,
+    "photos": 5,
+    "productivity": 10,
+    "reading": 2,
+    "health": 6,
+    "launchers": 15,
+    "stores": 3,
+    "ai": 5,
+    "cloud": 4,
+    "development": 2,
+    "utilities": 7,
+    "lifestyle": 3,
+    "finance": 1,
+    "games": 2
+  }
 }

@@ -1,0 +1,631 @@
+# The list. One entry per app; the README is generated from this file.
+#
+#   repo:        GitHub "owner/name" (required unless `source` is given)
+#   source:      Source URL for apps not hosted on GitHub
+#   category:    One of the ids in data/categories.yml
+#   name:        Display name (default: detected app name or repo name)
+#   description: One-line summary (default: cleaned GitHub description)
+#   homepage:    Project website
+#   fdroid:      Package id, if auto-detection gets it wrong
+#   license:     SPDX id, if GitHub cannot detect it (e.g. dual-licensed)
+#   icon:        Image URL or assets/ path, if auto-detection picks a bad icon
+#   added:       Date the app joined the list
+#
+# Run `npm run build` after editing. See CONTRIBUTING.md.
+
+- name: Calculator Vault
+  repo: Binondi/Calculator-Hide-Files
+  category: privacy
+  description: A working calculator that doubles as an AES-encrypted vault for photos, videos and documents.
+  added: 2026-03-29
+
+- name: Rethink
+  repo: celzero/rethink-app
+  category: privacy
+  description: DNS-over-HTTPS/Tor/DNSCrypt client, WireGuard proxifier and per-app firewall in one.
+  added: 2026-05-10
+
+- name: Privacium
+  repo: kaleedtc/Privacium
+  category: privacy
+  description: Discover privacy-respecting alternatives to popular apps and services.
+  added: 2026-07-19
+
+- name: KeePassDX
+  repo: Kunzisoft/KeePassDX
+  category: privacy
+  description: Password manager and vault for KeePass databases, with autofill and passkeys.
+  homepage: https://www.keepassdx.com/
+  fdroid: com.kunzisoft.keepass.libre
+  added: 2026-01-04
+
+- name: NetGuard
+  repo: M66B/NetGuard
+  category: privacy
+  description: Block internet access per app without root, with optional traffic logging and filtering.
+  fdroid: eu.faircode.netguard
+  added: 2026-01-04
+
+- name: Monica
+  repo: Monica-Pass/Monica
+  category: privacy
+  description: Password manager and 2FA code generator.
+  added: 2026-02-15
+
+- name: IYPS
+  repo: StellarSand/IYPS
+  category: privacy
+  description: Rates how strong your passwords are, estimates crack time and suggests improvements.
+  added: 2026-04-26
+
+- name: Password Monitor
+  repo: StellarSand/Password-Monitor
+  category: privacy
+  description: Check whether your passwords have appeared in known data breaches.
+  added: 2026-05-17
+
+- name: Plexus
+  repo: techlore/Plexus-app
+  category: privacy
+  description: Crowd-sourced app compatibility ratings for de-Googled and microG devices.
+  added: 2026-05-31
+
+- name: TrackerControl
+  repo: TrackerControl/tracker-control-android
+  category: privacy
+  description: Monitor and block the trackers and ads embedded in your apps.
+  added: 2026-01-04
+
+- name: Fossify Contacts
+  repo: FossifyOrg/Contacts
+  category: communication
+  description: Contact manager with groups and favourites, no ads.
+  fdroid: org.fossify.contacts
+  added: 2026-03-01
+
+- name: Fossify Messages
+  repo: FossifyOrg/Messages
+  category: communication
+  description: Fast SMS and MMS messaging with no ads.
+  fdroid: org.fossify.messages
+  added: 2026-02-08
+
+- name: Fossify Phone
+  repo: FossifyOrg/Phone
+  category: communication
+  description: Dialer with phonebook, call blocking and multi-SIM support.
+  fdroid: org.fossify.phone
+  added: 2026-02-08
+
+- name: Nextcloud Talk
+  repo: nextcloud/talk-android
+  category: communication
+  description: Chat plus video and audio calls through your Nextcloud server.
+  added: 2026-03-08
+
+- name: Tor Browser
+  source: https://gitlab.torproject.org/tpo/applications/tor-browser
+  category: browsers
+  description: Browse privately through the Tor network, with tracker blocking and fingerprinting protection.
+  homepage: https://www.torproject.org/download/#android
+  icon: assets/overrides/tor-browser.png
+  added: 2026-01-04
+
+- name: Relay
+  repo: Mahdi-mortazavi/relay
+  category: browsers
+  description: Share your phone's internet with a Windows PC through an encrypted WireGuard tunnel, no root.
+  added: 2026-09-13
+
+- name: DashBeam
+  repo: tonyantony300/dashbeam
+  category: browsers
+  description: Send files and folders to devices nearby or anywhere, peer-to-peer. Formerly AltSendme.
+  added: 2026-07-12
+
+- name: Internet Radio
+  repo: armanmaurya/InternetRadio
+  category: music
+  description: Discover and listen to thousands of free internet radio stations worldwide.
+  added: 2026-08-30
+
+- name: Tempus
+  repo: eddyizm/tempus
+  category: music
+  description: Lightweight native client for Subsonic-compatible music servers.
+  added: 2026-01-18
+
+- name: Fossify Music Player
+  repo: FossifyOrg/Music-Player
+  category: music
+  description: Clean music player with a customisable widget and no ads.
+  fdroid: org.fossify.musicplayer
+  added: 2026-03-01
+
+- name: Fossify Voice Recorder
+  repo: FossifyOrg/Voice-Recorder
+  category: music
+  description: Record conversations and sounds without ads or internet access.
+  fdroid: org.fossify.voicerecorder
+  added: 2026-02-01
+
+- name: Resonus
+  repo: juananzzz/resonus
+  category: music
+  description: Music player for self-hosted servers (Subsonic, Navidrome, Ampache) and local files.
+  added: 2026-09-20
+
+- name: N-Zik
+  repo: N-Zik-Group/N-Zik
+  category: music
+  description: Multilingual YouTube Music front-end focused on performance and polish.
+  added: 2026-10-11
+
+- name: Stash
+  repo: rawnaldclark/Stash
+  category: music
+  description: Brings your Spotify and YouTube Music libraries and daily mixes into one free player.
+  added: 2026-05-03
+
+- name: Melodia
+  repo: rinchao0721/Melodia
+  category: music
+  description: Lightweight third-party NetEase Cloud Music client with a Spotify-inspired UI.
+  added: 2026-09-27
+
+- name: OwnTV
+  repo: ahXN00/OwnTV
+  category: video
+  description: IPTV player for Android TV supporting Xtream, M3U and Stalker portals with EPG and catch-up.
+  added: 2026-08-16
+
+- name: Flow
+  repo: Flow-Tube/Flow
+  category: video
+  description: YouTube and YouTube Music client with on-device recommendations, built with Jetpack Compose.
+  added: 2026-02-22
+
+- name: Nova Video Player
+  repo: nova-video-player/aos-AVP
+  category: video
+  description: Video player with a media-centre UI, network shares (SMB/UPnP) and automatic metadata.
+  fdroid: org.courville.nova
+  added: 2026-04-05
+
+- name: NewPipe
+  repo: TeamNewPipe/NewPipe
+  category: video
+  description: Lightweight YouTube front-end with background play, downloads and no Google services.
+  homepage: https://newpipe.net/
+  fdroid: org.schabi.newpipe
+  added: 2026-01-04
+
+- name: VLC
+  repo: videolan/vlc-android
+  category: video
+  description: "The VLC media player: plays almost any video or audio format, network streams and discs."
+  homepage: https://www.videolan.org/vlc/download-android.html
+  fdroid: org.videolan.vlc
+  added: 2026-01-04
+
+- name: Mimi
+  repo: yuxino/Mimi
+  category: video
+  description: Live translated subtitles for any audio playing on your device or from the microphone.
+  added: 2026-10-04
+
+- name: mpv∞
+  repo: ZHINFINITY/Mpv-infinity
+  category: video
+  description: Ad-free media player powered by mpv and Media3, with HDR and Jellyfin support.
+  added: 2026-09-13
+
+- name: PiPixiv
+  repo: darriousliu/PiPixiv
+  category: photos
+  description: Third-party Pixiv client built with Compose Multiplatform.
+  added: 2026-05-10
+
+- name: OpenPocketCine
+  repo: erik-sutton95/OpenPocketCine
+  category: photos
+  description: Field monitor app for DJI Osmo Pocket cameras.
+  added: 2026-09-06
+
+- name: Fossify Camera
+  repo: FossifyOrg/Camera
+  category: photos
+  description: Quick photo and video camera with flash control and custom aspect ratios.
+  fdroid: org.fossify.camera
+  added: 2026-03-29
+
+- name: Fossify Gallery
+  repo: FossifyOrg/Gallery
+  category: photos
+  description: Photo and video gallery with editing, hidden folders and no unnecessary permissions.
+  fdroid: org.fossify.gallery
+  added: 2026-01-04
+
+- name: Fossify Paint
+  repo: FossifyOrg/Paint
+  category: photos
+  description: A simple canvas for drawing and sketching.
+  fdroid: org.fossify.paint
+  added: 2026-02-08
+
+- name: Flux
+  repo: chindaronit/Flux
+  category: productivity
+  description: Flexible workspaces for notes, journals, tasks and events.
+  added: 2026-02-15
+
+- name: Fossify Calendar
+  repo: FossifyOrg/Calendar
+  category: productivity
+  description: Calendar with events, CalDAV sync and customisable widgets.
+  fdroid: org.fossify.calendar
+  added: 2026-03-15
+
+- name: Fossify Documents
+  repo: FossifyOrg/Documents
+  category: productivity
+  description: Simple, clean viewer for your documents.
+  fdroid: org.fossify.documents
+  added: 2026-10-11
+
+- name: Fossify Notes
+  repo: FossifyOrg/Notes
+  category: productivity
+  description: Quick notes and checklists with widgets and no ads.
+  fdroid: org.fossify.notes
+  added: 2026-01-03
+
+- name: Table Habit
+  repo: FriesI23/mhabit
+  category: productivity
+  description: Habit tracker with smart scoring, WebDAV sync and local-first storage.
+  added: 2026-08-02
+
+- name: PDF Toolkit
+  repo: Karna14314/Pdf_Tools
+  category: productivity
+  description: "Offline PDF editor: merge, split, compress, convert and annotate on-device."
+  added: 2026-04-19
+
+- name: KashCal
+  repo: KashCal/KashCal
+  category: productivity
+  description: Offline-first calendar that syncs iCloud, Nextcloud, Fastmail and any CalDAV server.
+  added: 2026-04-05
+
+- name: PaperKnife
+  repo: potatameister/PaperKnife
+  category: productivity
+  description: Merge, split, compress and edit PDFs entirely on your device.
+  added: 2026-06-14
+
+- name: Super Productivity
+  repo: super-productivity/super-productivity
+  category: productivity
+  description: To-do list with timeboxing, time tracking and Jira/GitHub/GitLab integrations.
+  added: 2026-03-08
+
+- name: Timer Machine
+  repo: timer-machine/timer-machine-android
+  category: productivity
+  description: Highly customisable interval timer for workouts, cooking and studying.
+  added: 2026-02-15
+
+- name: Openreads
+  repo: mateusz-bak/openreads
+  category: reading
+  description: Track the books you have read, are reading and want to read.
+  added: 2026-09-13
+
+- name: Nextcloud News
+  repo: nextcloud/news-android
+  category: reading
+  description: RSS/Atom reader that syncs with the Nextcloud News app.
+  added: 2026-01-03
+
+- name: Fud AI
+  repo: apoorvdarshan/fud-ai
+  category: health
+  description: AI-assisted calorie and workout tracker that works with your own API key.
+  added: 2026-05-03
+
+- name: FitBook
+  repo: brandonp2412/FitBook
+  category: health
+  description: Offline calorie and macro tracker with barcode scanning and food search.
+  added: 2026-08-23
+
+- name: Flexify
+  repo: brandonp2412/Flexify
+  category: health
+  description: Offline workout tracker for strength and cardio with graphs and rest timers.
+  added: 2026-08-23
+
+- name: Quitter
+  repo: brandonp2412/Quitter
+  category: health
+  description: Private addiction-recovery tracker with milestones and journaling.
+  added: 2026-08-30
+
+- name: Caffeine Health
+  repo: ohuc/CaffeineHealth
+  category: health
+  description: Shows your live caffeine level and whether that late coffee will cost you sleep.
+  added: 2026-08-02
+
+- name: OpenNutriTracker
+  repo: simonoppowa/OpenNutriTracker
+  category: health
+  description: Simple, private calorie and nutrition tracker.
+  added: 2026-04-19
+
+- name: Launcher314
+  repo: bearinmindcat/Launcher314
+  category: launchers
+  description: Launcher with deep customisation on a single screen.
+  added: 2026-07-05
+
+- name: EasyLauncher
+  repo: CodeWorksCreativeHub/EasyLauncher
+  category: launchers
+  description: Minimal, clutter-free launcher.
+  added: 2026-03-22
+
+- name: mLauncher
+  repo: CodeWorksCreativeHub/mLauncher
+  category: launchers
+  description: Minimal text-based launcher, a customised fork of Olauncher.
+  added: 2026-01-11
+
+- name: Tapbar
+  repo: Earendel-lab/Tapbar
+  category: launchers
+  description: Launch apps and quick actions from the status bar or anywhere on screen.
+  added: 2026-10-04
+
+- name: Fossify Keyboard
+  repo: FossifyOrg/Keyboard
+  category: launchers
+  description: Simple keyboard for text, special characters and numbers.
+  fdroid: org.fossify.keyboard
+  added: 2026-02-01
+
+- name: Fossify Launcher
+  repo: FossifyOrg/Launcher
+  category: launchers
+  description: Practical, customisable launcher for opening your favourite apps quickly.
+  fdroid: org.fossify.home
+  added: 2026-03-15
+
+- name: Prism
+  repo: Hash-Studios/Prism
+  category: launchers
+  description: Wallpapers and home-screen setups with curated collections.
+  added: 2026-05-31
+
+- name: LTvLauncher
+  repo: leanbitlab-org/LtvLauncher
+  category: launchers
+  description: Minimal Android TV launcher with a data-usage widget and OLED screensaver.
+  added: 2026-04-26
+
+- name: Undead Wallpaper
+  repo: maocide/UndeadWallpaper
+  category: launchers
+  description: Turn any video into a seamless live wallpaper.
+  added: 2026-05-24
+
+- name: KISS Launcher
+  repo: Neamar/KISS
+  category: launchers
+  description: Blazing-fast search-first launcher under 250 KB.
+  homepage: https://kisslauncher.com/
+  fdroid: fr.neamar.kiss
+  added: 2026-01-04
+
+- name: Neo Launcher
+  repo: NeoApplications/Neo-Launcher
+  category: launchers
+  description: Modern, customisable launcher based on Launcher3 with Material You theming.
+  fdroid: com.saggitt.omega
+  added: 2026-01-04
+
+- name: Mako
+  repo: rama-io/mako
+  category: launchers
+  description: Minimal, distraction-free launcher designed for focus.
+  added: 2026-07-26
+
+- name: Scribe
+  repo: scribe-org/Scribe-Android
+  category: launchers
+  description: Keyboards for language learners with translation and verb conjugation.
+  added: 2026-01-03
+
+- name: Urik
+  repo: urikdev/Urik
+  category: launchers
+  description: Private keyboard with swipe typing, custom layouts and password manager support.
+  added: 2026-01-25
+
+- name: Adaptive Theme
+  repo: xLexip/Adaptive-Theme
+  category: launchers
+  description: Automatically switches dark mode based on the ambient light sensor.
+  added: 2026-06-14
+
+- name: F-Droid
+  repo: f-droid/fdroidclient
+  category: stores
+  description: The catalogue of free and open source Android apps, with updates and third-party repos.
+  homepage: https://f-droid.org/
+  fdroid: org.fdroid.fdroid
+  added: 2026-01-04
+
+- name: Komi Store
+  repo: komi-store/komi-store
+  category: stores
+  description: Browse and install apps released on GitHub, Codeberg and Forgejo, with update tracking. Formerly GitHub Store.
+  added: 2026-01-25
+
+- name: SafeHaven Store
+  repo: phsycologicalFudge/SafeHaven-Store
+  category: stores
+  description: Alternative app store offering verified open source apps with built-in malware scanning.
+  added: 2026-06-21
+
+- name: Miffan
+  repo: Ayuilos/Miffan
+  category: ai
+  description: AI chat client (RikkaHub fork) with ChatGPT login, floating translation and IM-style mode.
+  added: 2026-09-20
+
+- name: Hermes Relay
+  repo: Codename-11/hermes-relay
+  category: ai
+  description: Chat with, talk to and control your Hermes AI agent from your phone.
+  added: 2026-08-09
+
+- name: ToolNeuron
+  repo: Siddhesh2377/ToolNeuron
+  category: ai
+  description: "Encrypted, offline AI suite: chat with local GGUF models, and more, fully on-device."
+  added: 2026-01-18
+
+- name: DeepSeek Harness
+  repo: Soodok/Deepseek-Harness-Local-Android
+  category: ai
+  description: Runs the DeepSeek Harness AI agent natively, without root or Termux.
+  added: 2026-10-18
+
+- name: OpenClaw Assistant
+  repo: yuga-hashimoto/openclaw-assistant
+  category: ai
+  description: Voice assistant for OpenClaw with wake-word activation and system assistant integration.
+  added: 2026-03-22
+
+- name: Freegosy
+  repo: abduznik/Freegosy
+  category: cloud
+  description: Browse your RomM game library, download games and sync saves with emulators.
+  added: 2026-09-27
+
+- name: Nextcloud Cookbook
+  repo: lneugebauer/nextcloud-cookbook
+  category: cloud
+  description: Browse and cook from the recipes stored in your Nextcloud Cookbook.
+  added: 2026-06-07
+
+- name: Nextcloud
+  repo: nextcloud/android
+  category: cloud
+  description: Files client for your Nextcloud server with auto-upload and offline access.
+  fdroid: com.nextcloud.android
+  added: 2026-01-03
+
+- name: nati.ve
+  repo: Obiente/native
+  category: cloud
+  description: Adaptive native Nextcloud client with support for the wider Nextcloud app ecosystem.
+  added: 2026-08-30
+
+- name: Klyx
+  repo: klyx-dev/klyx
+  category: development
+  description: Lightweight, high-performance code editor.
+  added: 2026-05-24
+
+- name: Termux
+  repo: termux/termux-app
+  category: development
+  description: Terminal emulator and Linux environment with a full package manager.
+  homepage: https://termux.dev/
+  fdroid: com.termux
+  added: 2026-01-04
+
+- name: HiLight Studio
+  repo: DhananjayBhosale/hilight-studio
+  category: utilities
+  description: Experimental controller for the Pixel HiLight LED.
+  added: 2026-08-23
+
+- name: Fossify Calculator
+  repo: FossifyOrg/Calculator
+  category: utilities
+  description: Calculator for quick everyday maths with a clean interface.
+  fdroid: org.fossify.math
+  added: 2026-04-05
+
+- name: Fossify Clock
+  repo: FossifyOrg/Clock
+  category: utilities
+  description: Clock, alarm, stopwatch and timer with widgets.
+  fdroid: org.fossify.clock
+  added: 2026-03-15
+
+- name: Fossify File Manager
+  repo: FossifyOrg/File-Manager
+  category: utilities
+  description: Fast file manager with root browsing, archive support and no ads.
+  fdroid: org.fossify.filemanager
+  added: 2026-03-01
+
+- name: Fossify Flashlight
+  repo: FossifyOrg/Flashlight
+  category: utilities
+  description: Flashlight with SOS, strobe and bright-display modes.
+  added: 2026-06-07
+
+- name: OSS Weather
+  repo: ossappscollective/oss-weather
+  category: utilities
+  description: Weather forecasts from multiple providers with widgets.
+  added: 2026-01-11
+
+- name: WeatherMaster
+  repo: PranshulGG/WeatherMaster
+  category: utilities
+  description: Material 3 weather app with multiple forecast sources.
+  added: 2026-01-03
+
+- name: Sabbath School
+  repo: Adventech/sabbath-school-android
+  category: lifestyle
+  description: Daily Sabbath School lessons and Bible study guides.
+  added: 2026-03-22
+
+- name: Drinkable
+  repo: MOIMOB/drinkable
+  category: lifestyle
+  description: Find cocktails you can make right now with what you have at home.
+  added: 2026-05-31
+
+- name: Talawa
+  repo: PalisadoesFoundation/talawa
+  category: lifestyle
+  description: "Manage community organisations: members, events, posts and chats."
+  added: 2026-01-03
+
+- name: Aura Wallet
+  repo: aurabitcoinwallet/aura-wallet
+  category: finance
+  description: Self-custody Bitcoin wallet.
+  added: 2026-08-02
+
+- name: Lexica
+  repo: lexica/lexica
+  category: games
+  description: Find as many words as you can in a grid of letters before time runs out.
+  license: GPL-3.0
+  added: 2026-05-17
+
+- name: Puzzle
+  repo: sidhant947/Puzzle
+  category: games
+  description: A suite of 300+ minimalist puzzle games.
+  added: 2026-06-28
