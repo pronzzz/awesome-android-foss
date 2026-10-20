@@ -1,12 +1,12 @@
 name: Update list
 
-# Discovers new apps weekly, refreshes stars/install links/icons for every
+# Discovers new apps monthly, refreshes stars/install links/icons for every
 # app, and regenerates README.md. Also runs when the data or scripts change on
 # main (e.g. a merged contribution) so the README never goes stale.
 
 on:
   schedule:
-    - cron: '17 3 * * 0' # Sundays 03:17 UTC: discovery + full refresh
+    - cron: '17 3 1 * *' # 1st of every month, 03:17 UTC: discovery + full refresh
   push:
     branches: [main]
     paths:

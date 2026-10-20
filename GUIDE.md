@@ -36,7 +36,7 @@ Scripts that call GitHub need `GITHUB_TOKEN` in the environment (`GITHUB_TOKEN=$
 
 | Trigger | What runs |
 | --- | --- |
-| Sundays 03:17 UTC | discover → full refresh → build → validate/test → commit |
+| 1st of every month, 03:17 UTC | discover → full refresh → build → validate/test → commit |
 | Push to `main` touching data, templates or scripts | refresh of apps without metadata → build → commit |
 | Manual (Actions tab) | choose discovery on/off, max apps, force icons, and **commit** vs **pull request** |
 
@@ -52,7 +52,7 @@ Daily render of the contribution snake into the `output` branch, shown at the bo
 
 ## How discovery decides
 
-1. **Search.** It runs 13 GitHub searches (`topic:android-app`, `topic:fdroid`, `topic:android topic:foss`, …), each limited to ≥100 stars, a push in the last 12 months, and no archived repos or forks. The query order rotates weekly.
+1. **Search.** It runs 13 GitHub searches (`topic:android-app`, `topic:fdroid`, `topic:android topic:foss`, …), each limited to ≥100 stars, a push in the last 12 months, and no archived repos or forks. The query order rotates monthly.
 2. **Free filters.** It drops anything already listed or excluded, compared by **numeric repo id** so renamed or transferred repos can't be added twice. It also drops repos without an OSI license, libraries, SDKs, plugins, samples, lists and NSFW content.
 3. **App check.** It reads the repo's file tree and requires a real Android application module. That covers Gradle, Kotlin Multiplatform, Flutter, React Native, Expo and Capacitor projects, and it requires the `com.android.application` plugin, a launcher icon or fastlane metadata. It also reads the package id (including `gradle.properties` and version-catalog indirection) and the app's display name.
 4. **Category.** A weighted keyword classifier scores each category using topics ×3, name ×2 and description ×1, with `!keywords` counting double. Weak or ambiguous results go to *System & Utilities*. Tune it by editing `keywords` in `categories.yml`.

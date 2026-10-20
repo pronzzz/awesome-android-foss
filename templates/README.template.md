@@ -20,7 +20,7 @@
 
 > A curated, self-updating collection of free and open source Android apps. No ads, no trackers, no lock-in.
 
-Every app on this list is open source and ships a real Android build. A weekly bot discovers new apps on GitHub, checks that each one is an actual Android application (not a library or another list), sorts it into a category, and keeps stars, install links and icons up to date. See [how it works](GUIDE.md).
+Every app on this list is open source and ships a real Android build. A monthly bot discovers new apps on GitHub, checks that each one is an actual Android application (not a library or another list), sorts it into a category, and keeps stars, install links and icons up to date. See [how it works](GUIDE.md).
 
 **Legend:** [![F-Droid](https://img.shields.io/badge/F--Droid-1976D2?style=flat-square&logo=fdroid&logoColor=white)](https://f-droid.org/) on F-Droid · [![IzzyOnDroid](https://img.shields.io/badge/IzzyOnDroid-5C4D9E?style=flat-square&logo=android&logoColor=white)](https://apt.izzysoft.de/fdroid/) on IzzyOnDroid · [![Releases](https://img.shields.io/badge/Releases-24292F?style=flat-square&logo=github&logoColor=white)](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases) APK on GitHub Releases · 💤 no commits in over a year · 🗄️ archived
 

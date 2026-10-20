@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 
-// Weekly discovery of new FOSS Android apps.
+// Monthly discovery of new FOSS Android apps.
 //
 // Pipeline per candidate:
 //   1. GitHub search across several rotating queries (sorted by stars, recent activity only)
@@ -63,9 +63,10 @@ function queries() {
         'topic:android topic:jetpack-compose', 'topic:android topic:flutter', 'topic:android topic:self-hosted',
         'topic:android topic:kotlin topic:app', `topic:android created:>=${isoDaysAgo(180)}`,
     ].map((q) => `${q} ${base}`);
-    // Rotate the order weekly so the same queries don't always consume the budget.
-    const week = Math.floor(Date.now() / (7 * 864e5));
-    return list.map((q, i) => [q, (i * 7919 + week * 104729) % 1000]).sort((a, b) => a[1] - b[1]).map(([q]) => q);
+    // Rotate the order each month so the same queries don't always consume the budget.
+    const now = new Date();
+    const month = now.getUTCFullYear() * 12 + now.getUTCMonth();
+    return list.map((q, i) => [q, (i * 7919 + month * 104729) % 1000]).sort((a, b) => a[1] - b[1]).map(([q]) => q);
 }
 
 /** Prefer the most "English-looking" segment of bilingual descriptions ("中文 | English"). */
@@ -204,7 +205,7 @@ async function main() {
         `### 🤖 Discovery: ${added.length} new app${added.length === 1 ? '' : 's'}`,
         '',
         ...(added.length ? ['| App | Category | Stars | Description |', '|---|---|---|---|',
-            ...added.map(({ entry, meta }) => `| [${entry.name}](${meta.url}) | ${catTitle.get(entry.category)} | ${meta.stars} | ${entry.description}${needsEnglish(entry.description) ? ' ⚠️ *needs an English description*' : ''} |`)] : ['Nothing new this week.']),
+            ...added.map(({ entry, meta }) => `| [${entry.name}](${meta.url}) | ${catTitle.get(entry.category)} | ${meta.stars} | ${entry.description}${needsEnglish(entry.description) ? ' ⚠️ *needs an English description*' : ''} |`)] : ['Nothing new this time.']),
         '',
         `<details><summary>${rejected.length} candidates skipped</summary>`,
         '',
