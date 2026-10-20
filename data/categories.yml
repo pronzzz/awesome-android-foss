@@ -1,0 +1,115 @@
+# Categories shown in the README, in display order.
+#
+# `keywords` drive auto-categorisation of discovered apps. Each entry is a
+# word or phrase matched on word boundaries against the repo's topics, name
+# and description (topics count most). Prefix with "!" for a strong signal
+# (counts double). Keep phrases specific — generic words like "privacy" or
+# "open source" are deliberately absent because almost every FOSS app uses them.
+
+- id: privacy
+  title: Privacy & Security
+  emoji: 🔒
+  description: Firewalls, ad and tracker blockers, VPN/DNS clients, password managers and vaults.
+  keywords: ["!firewall", "!block internet", "!internet access", "!adblock", "!ad blocker", "!tracker blocker", "!trackers", "!password manager", "!passwords", "!2fa", "!totp", "!otp", "!authenticator", "!vault", "!dns", "!doh", "vpn", "wireguard", "tor", "encryption", "encrypted", "keepass", "data breach", "secure", "security", "hide photos", "permission manager", "debloat", "degoogle", "microg"]
+
+- id: communication
+  title: Communication
+  emoji: 💬
+  description: Messaging, calls, SMS, contacts and email.
+  keywords: ["!messenger", "!messaging", "!calls", "!video calls", "!sms", "!mms", "!dialer", "!phone calls", "!contacts", "!email", "!e-mail", "!mail client", "chat", "matrix", "xmpp", "signal", "telegram", "video calls", "voip", "sip", "irc", "mastodon", "fediverse", "lemmy", "reddit", "social"]
+
+- id: browsers
+  title: Browsers & Internet
+  emoji: 🌐
+  description: Web browsers, downloaders and network tools.
+  keywords: ["!browser", "!web browser", "!download manager", "!torrent", "!bittorrent", "hotspot", "tethering", "share internet", "ssh", "network", "wifi", "port scanner", "file transfer", "send files", "localsend"]
+
+- id: music
+  title: Music & Audio
+  emoji: 🎵
+  description: Music players, streaming clients, podcasts, radio and recorders.
+  keywords: ["!music player", "!music", "!audio player", "!podcast", "!podcasts", "!radio", "!subsonic", "!navidrome", "!jellyfin music", "!youtube music", "!spotify", "!voice recorder", "!audiobook", "!audiobooks", "audio", "songs", "playlist", "lyrics", "equalizer", "mp3", "flac"]
+
+- id: video
+  title: Video & Streaming
+  emoji: 🎬
+  description: Video players, YouTube and IPTV clients.
+  keywords: ["!video player", "!youtube", "!iptv", "!media player", "!mpv", "!vlc", "!exoplayer", "!jellyfin", "!plex", "!kodi", "!android tv", "!anime", "video", "videos", "movies", "subtitle", "subtitles", "streaming", "piped", "invidious", "newpipe"]
+
+- id: photos
+  title: Photos & Camera
+  emoji: 📷
+  description: Galleries, cameras, photo editors and drawing apps.
+  keywords: ["!gallery", "!camera", "!photo editor", "!photos", "!drawing", "!paint", "!sketch", "!pixiv", "!illustrations", "!artwork", "!booru", "image editor", "images", "photo", "scanner", "qr scanner", "ocr", "immich"]
+
+- id: productivity
+  title: Productivity & Office
+  emoji: 📝
+  description: Notes, tasks, calendars, documents, PDF and office tools.
+  keywords: ["!notes", "!note taking", "!todo", "!to-do", "!task manager", "!tasks", "!calendar", "!caldav", "!pdf", "!office", "!markdown", "!documents", "!spreadsheet", "!habit tracker", "!habits", "!pomodoro", "!productivity", "!timer", "journal", "diary", "planner", "reminders", "kanban", "time tracking", "organization", "organizer"]
+
+- id: reading
+  title: Reading & News
+  emoji: 📚
+  description: E-book and comic readers, RSS/news clients and book trackers.
+  keywords: ["!rss", "!feed reader", "!news", "!ebook", "!e-book", "!epub", "!manga", "!comics", "!comic", "!books", "!book tracker", "!reader", "reading", "library", "wikipedia", "dictionary", "bible"]
+
+- id: health
+  title: Health & Fitness
+  emoji: 💪
+  description: Workout, nutrition, sleep and wellbeing trackers.
+  keywords: ["!fitness", "!workout", "!gym", "!calorie", "!calories", "!nutrition", "!health", "!sobriety", "!addiction", "!meditation", "!caffeine", "!period tracker", "!menstrual", "!sleep", "exercise", "running", "steps", "diet", "water", "weight"]
+
+- id: launchers
+  title: Launchers & Customization
+  emoji: 🚀
+  description: Home screen launchers, keyboards, wallpapers and theming tools.
+  keywords: ["!launcher", "!home screen", "!keyboard", "!ime", "!input method", "!wallpaper", "!wallpapers", "!icon pack", "!live wallpaper", "!dark mode", "!theme", "theming", "widgets", "status bar", "quick settings", "customization", "material you"]
+
+- id: stores
+  title: App Stores & Updaters
+  emoji: 📦
+  description: Alternative app stores, repo clients and update managers.
+  keywords: ["!app store", "!appstore", "!f-droid client", "!fdroid client", "!package manager", "!app manager", "!updater", "!github releases", "!obtainium", "app compatibility", "apk", "install apps"]
+
+- id: ai
+  title: AI & Assistants
+  emoji: 🤖
+  description: On-device and self-hosted LLM clients and voice assistants.
+  keywords: ["!llm", "!llama", "!gguf", "!chatgpt", "!openai", "!ollama", "!deepseek", "!ai assistant", "!voice assistant", "!local ai", "!offline ai", "!on-device ai", "gemini", "claude", "agent", "ai", "artificial intelligence", "machine learning", "whisper", "speech recognition"]
+
+- id: cloud
+  title: Cloud & Self-Hosted
+  emoji: 🏠
+  description: Clients for Nextcloud, Home Assistant and other self-hosted services.
+  keywords: ["!nextcloud", "!owncloud", "!self-hosted", "!selfhosted", "!self hosted", "!home assistant", "!homeassistant", "!syncthing", "!webdav", "!romm", "!music assistant", "!cloudflare", "cloud", "sync", "backup", "server"]
+
+- id: development
+  title: Development & Terminal
+  emoji: 💻
+  description: Terminals, code editors, Git clients and developer utilities.
+  keywords: ["!terminal", "!terminal emulator", "!termux", "!code editor", "!ide", "!git client", "!shell", "!linux environment", "!adb", "!shizuku", "!root", "developer tools", "programming", "editor", "cli", "tui", "logcat"]
+
+- id: utilities
+  title: System & Utilities
+  emoji: 🧰
+  description: File managers, calculators, clocks, weather and other everyday tools.
+  keywords: ["!file manager", "!file explorer", "!calculator", "!clock", "!alarm", "!stopwatch", "!flashlight", "!torch", "!weather", "!battery", "!unit converter", "!compass", "!qr code", "!barcode", "files", "storage", "tools", "toolbox", "utility", "utilities", "system", "automation", "led", "notification"]
+
+- id: lifestyle
+  title: Lifestyle & Education
+  emoji: 🌱
+  description: Recipes, travel, maps, learning and community apps.
+  keywords: ["!recipes", "!recipe", "!cookbook", "!cocktails", "!cooking", "!maps", "!navigation", "!openstreetmap", "!osm", "!transit", "!travel", "!language learning", "!flashcards", "!education", "!learning", "!church", "!sabbath", "!quran", "community", "events", "shopping", "plants", "gardening"]
+
+- id: finance
+  title: Finance & Crypto
+  emoji: 💰
+  description: Budgeting, expense tracking and self-custody wallets.
+  keywords: ["!budget", "!expense", "!expenses", "!finance", "!money manager", "!bitcoin", "!wallet", "!monero", "!lightning", "!crypto", "banking", "invoices", "accounting"]
+
+- id: games
+  title: Games
+  emoji: 🎮
+  description: Open source games and emulators.
+  keywords: ["!game", "!games", "!game streaming", "!gamestream", "!moonlight", "!sunshine", "!puzzle", "!puzzles", "!chess", "!sudoku", "!emulator", "!retro", "!word game", "!arcade", "!roguelike", "minesweeper", "solitaire", "2048", "board game"]

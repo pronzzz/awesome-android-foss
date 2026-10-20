@@ -1,0 +1,57 @@
+name: Suggest an app
+description: Propose a free and open source Android app for the list.
+title: "[App] "
+labels: [app-suggestion]
+body:
+  - type: input
+    id: repo
+    attributes:
+      label: Source repository
+      description: Link to the app's source code.
+      placeholder: https://github.com/owner/repo
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Privacy & Security
+        - Communication
+        - Browsers & Internet
+        - Music & Audio
+        - Video & Streaming
+        - Photos & Camera
+        - Productivity & Office
+        - Reading & News
+        - Health & Fitness
+        - Launchers & Customization
+        - App Stores & Updaters
+        - AI & Assistants
+        - Cloud & Self-Hosted
+        - Development & Terminal
+        - System & Utilities
+        - Lifestyle & Education
+        - Finance & Crypto
+        - Games
+        - Not sure
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What does it do?
+      description: One or two sentences on what makes it worth listing.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checklist
+      options:
+        - label: It's released under an OSI-approved open source license.
+          required: true
+        - label: It's an installable Android app, not a library, plugin or list.
+          required: true
+        - label: It has no ads or proprietary trackers.
+          required: true

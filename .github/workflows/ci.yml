@@ -1,0 +1,44 @@
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Unit tests
+        run: npm test
+
+      - name: Validate data files
+        run: node scripts/validate.js
+
+      - name: README is generated, not hand-edited
+        if: github.event_name == 'pull_request' && github.actor != 'github-actions[bot]'
+        env:
+          BASE: ${{ github.event.pull_request.base.sha }}
+        run: |
+          if git diff --name-only "$BASE" HEAD | grep -qx 'README.md'; then
+            echo "::error file=README.md::README.md is generated from data/apps.yml. Revert your README changes and add the app to data/apps.yml instead (see CONTRIBUTING.md)."
+            exit 1
+          fi
+
+      - name: Awesome lint
+        run: npx awesome-lint

@@ -1,0 +1,91 @@
+# Repositories the discovery bot must never add (libraries, lists,
+# duplicates, non-apps, or apps that were reviewed and rejected).
+# Add an entry here instead of just deleting an app from apps.yml.
+
+- repo: 2501035-wq/mobile-sim-streamer
+  id: 1283359377
+  reason: QA streaming server, no license
+- repo: a0926499300/nh-doujinshi-reader
+  id: 1283342984
+  reason: Adult content
+- repo: chen2he/orange-cloud
+  id: 1266852273
+  reason: Android app not yet released (iOS-first)
+- repo: CollaboraOnline/online
+  id: 300155217
+  reason: Server-side office suite (issue tracker repo)
+- repo: CollotsSpot/Ensemble
+  id: 1101228006
+  reason: No license
+- repo: DiligentGraphics/DiligentFX
+  id: 169944992
+  reason: Graphics library
+- repo: djunekz/termux-app-store
+  id: 1147643552
+  reason: Termux CLI tool, not an Android app
+- repo: dodorare/crossbow
+  id: 291822639
+  reason: Build tooling
+- repo: droid-ash/finalrun-agent
+  id: 1179399651
+  reason: Developer QA tool
+- repo: electerm/electerm
+  id: 106087444
+  reason: Desktop app
+- repo: fiedri/awesome-android-apps
+  id: 1371713775
+  reason: Curated list, not an app
+- repo: FossifyOrg/commons
+  id: 505067689
+  reason: Shared library for Fossify apps
+- repo: FossifyOrg/fossifyorg.github.io
+  id: 727300051
+  reason: Website, not an app
+- repo: FossifyOrg/Thank-You
+  id: 726775177
+  reason: Donation companion app with no standalone function
+- repo: ghost-in-the-droid/android-agent
+  id: 1204406252
+  reason: Developer automation framework
+- repo: hakerdefo/Robota-Liberated
+  id: 1207340077
+  reason: Curated list, not an app
+- repo: infinum/Android-Prince-of-Versions
+  id: 62612367
+  reason: Library
+- repo: jaredsburrows/gradle-license-plugin
+  id: 77008133
+  reason: Gradle plugin
+- repo: jo-duchan/tapflow
+  id: 1232101800
+  reason: QA simulator streaming server
+- repo: kdroidFilter/ComposeMediaPlayer
+  id: 918046791
+  reason: Library
+- repo: measure-sh/measure
+  id: 676897841
+  reason: Developer SDK / monitoring platform
+- repo: MichaelStott/KivMob
+  id: 89816217
+  reason: Library (AdMob ads for Kivy)
+- repo: MonoDevHQ/monodev-music-client
+  id: 1184940896
+  reason: Archived; states it is not open source
+- repo: nlckysolutions/nPhoneKIT
+  id: 1022107670
+  reason: Desktop toolbox
+- repo: offa/android-foss
+  id: 85591077
+  reason: Curated list, not an app (linked under Related lists)
+- repo: Saber-Alter-Lily/pica-library
+  id: 1331728659
+  reason: Built around adult-content sources
+- repo: secondly-com/OpenPhone
+  id: 1248636112
+  reason: Operating system, not an app
+- repo: sesori-ai/sesori_apps_monorepo
+  id: 1187455604
+  reason: Developer tool without a detectable OSI license
+- repo: xszn/xszn.github.io
+  id: 934584957
+  reason: Curated list, not an app

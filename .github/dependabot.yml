@@ -1,0 +1,14 @@
+version: 2
+updates:
+  # Keeps workflow actions current so runner deprecations (like Node 20) don't break the bot.
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      dependencies:
+        patterns: ['*']

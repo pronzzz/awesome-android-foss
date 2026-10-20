@@ -1,0 +1,134 @@
+name: Update list
+
+# Discovers new apps weekly, refreshes stars/install links/icons for every
+# app, and regenerates README.md. Also runs when the data or scripts change on
+# main (e.g. a merged contribution) so the README never goes stale.
+
+on:
+  schedule:
+    - cron: '17 3 * * 0' # Sundays 03:17 UTC: discovery + full refresh
+  push:
+    branches: [main]
+    paths:
+      - 'data/apps.yml'
+      - 'data/categories.yml'
+      - 'data/excluded.yml'
+      - 'templates/**'
+      - 'scripts/**'
+  workflow_dispatch:
+    inputs:
+      discover:
+        description: Search GitHub for new apps
+        type: boolean
+        default: true
+      max_new:
+        description: Maximum number of apps to add
+        type: number
+        default: 5
+      force_icons:
+        description: Re-resolve every icon
+        type: boolean
+        default: false
+      mode:
+        description: Publish changes as
+        type: choice
+        options: [commit, pull-request]
+        default: commit
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: update-list
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Discover new apps
+        id: discover
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.discover)
+        env:
+          DISCOVERY_SUMMARY_FILE: ${{ runner.temp }}/discovery.md
+        run: node scripts/discover.js --max "${{ inputs.max_new || 5 }}"
+
+      - name: Refresh metadata and icons
+        env:
+          EVENT: ${{ github.event_name }}
+          FORCE_ICONS: ${{ inputs.force_icons }}
+        run: |
+          if [ "$EVENT" = "push" ]; then
+            node scripts/refresh.js --missing
+          elif [ "$FORCE_ICONS" = "true" ]; then
+            node scripts/refresh.js --force-icons
+          else
+            node scripts/refresh.js
+          fi
+
+      - name: Build README
+        run: node scripts/build-readme.js
+
+      - name: Check
+        run: |
+          node scripts/validate.js
+          npm test
+
+      - name: Commit message
+        id: msg
+        env:
+          ADDED: ${{ steps.discover.outputs.added }}
+          NAMES: ${{ steps.discover.outputs.names }}
+          DISCOVERY_SUMMARY_FILE: ${{ runner.temp }}/discovery.md
+        run: |
+          [ -f "$DISCOVERY_SUMMARY_FILE" ] || echo "Automated refresh of stars, install links and icons." > "$DISCOVERY_SUMMARY_FILE"
+          if [ "${ADDED:-0}" -gt 0 ]; then
+            echo "message=feat(list): add $NAMES" >> "$GITHUB_OUTPUT"
+          else
+            echo "message=chore(list): refresh app metadata" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Commit and push
+        if: inputs.mode != 'pull-request'
+        env:
+          MESSAGE: ${{ steps.msg.outputs.message }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A README.md data assets
+          if git diff --staged --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "$MESSAGE"
+          git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+          git push origin "HEAD:${GITHUB_REF_NAME}"
+
+      - name: Open pull request
+        if: inputs.mode == 'pull-request'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: bot/list-update
+          delete-branch: true
+          add-paths: |
+            README.md
+            data
+            assets
+          commit-message: ${{ steps.msg.outputs.message }}
+          title: ${{ steps.msg.outputs.message }}
+          body-path: ${{ runner.temp }}/discovery.md
+          labels: bot
