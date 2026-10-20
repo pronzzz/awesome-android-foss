@@ -22,7 +22,7 @@
     "add": "node scripts/add.js",
     "validate": "node scripts/validate.js",
     "lint": "awesome-lint",
-    "test": "node --test test/"
+    "test": "node --test test/*.test.js"
   },
   "dependencies": {
     "sharp": "^0.35.5",
