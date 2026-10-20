@@ -31,11 +31,12 @@ jobs:
         run: node scripts/validate.js
 
       - name: README is generated, not hand-edited
-        if: github.event_name == 'pull_request' && github.actor != 'github-actions[bot]'
+        if: github.event_name == 'pull_request'
         env:
           BASE: ${{ github.event.pull_request.base.sha }}
         run: |
-          if git diff --name-only "$BASE" HEAD | grep -qx 'README.md'; then
+          # README changes are fine only if they are exactly what the generator produces.
+          if git diff --name-only "$BASE" HEAD | grep -qx 'README.md' && ! node scripts/build-readme.js --check; then
             echo "::error file=README.md::README.md is generated from data/apps.yml. Revert your README changes and add the app to data/apps.yml instead (see CONTRIBUTING.md)."
             exit 1
           fi
