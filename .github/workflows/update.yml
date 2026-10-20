@@ -120,7 +120,7 @@ jobs:
 
       - name: Open pull request
         if: inputs.mode == 'pull-request'
-        uses: peter-evans/create-pull-request@v7
+        uses: peter-evans/create-pull-request@v8
         with:
           branch: bot/list-update
           delete-branch: true
