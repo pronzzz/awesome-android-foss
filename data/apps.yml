@@ -25,6 +25,13 @@
   description: DNS-over-HTTPS/Tor/DNSCrypt client, WireGuard proxifier and per-app firewall in one.
   added: 2026-05-10
 
+- name: Ente Auth
+  repo: ente/ente
+  category: privacy
+  description: End-to-end encrypted cloud for everything.
+  homepage: https://ente.com
+  added: 2026-11-01
+
 - name: Privacium
   repo: kaleedtc/Privacium
   category: privacy
@@ -172,6 +179,13 @@
   category: music
   description: Lightweight third-party NetEase Cloud Music client with a Spotify-inspired UI.
   added: 2026-09-27
+
+- name: Spotube
+  repo: team-spotube/spotube
+  category: music
+  description: Open source music streaming app! Available for both desktop & mobile!
+  homepage: https://spotube.cc/
+  added: 2026-11-01
 
 - name: OwnTV
   repo: ahXN00/OwnTV
@@ -341,7 +355,7 @@
   added: 2026-08-23
 
 - name: Flexify
-  repo: brandonp2412/Flexify
+  repo: brandonp2412/Flex
   category: health
   description: Offline workout tracker for strength and cardio with graphs and rest timers.
   added: 2026-08-23
@@ -554,6 +568,13 @@
   description: Experimental controller for the Pixel HiLight LED.
   added: 2026-08-23
 
+- name: Flutter
+  repo: flutter/flutter
+  category: utilities
+  description: Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
+  homepage: https://flutter.dev
+  added: 2026-11-01
+
 - name: Fossify Calculator
   repo: FossifyOrg/Calculator
   category: utilities
@@ -592,6 +613,20 @@
   category: utilities
   description: Material 3 weather app with multiple forecast sources.
   added: 2026-01-03
+
+- name: Kazumi
+  repo: Predidit/Kazumi
+  category: utilities
+  description: 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。.
+  homepage: https://kazumi.app
+  added: 2026-11-01
+
+- name: RustDesk
+  repo: rustdesk/rustdesk
+  category: utilities
+  description: An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+  homepage: https://rustdesk.com
+  added: 2026-11-01
 
 - name: Sabbath School
   repo: Adventech/sabbath-school-android

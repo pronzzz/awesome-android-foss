@@ -24,7 +24,7 @@
       "romm",
       "self-hosted"
     ],
-    "stars": 243,
+    "stars": 270,
     "license": "MIT",
     "pushedAt": "2026-10-20T07:37:55Z",
     "archived": false,
@@ -37,7 +37,7 @@
     "icon": "assets/icons/abduznik--freegosy.png",
     "iconSource": "https://raw.githubusercontent.com/abduznik/Freegosy/main/android/app/src/main/res/mipmap-xxxhdpi/launcher_icon.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:49.752Z"
+    "checked": "2026-11-01T10:30:33.078Z"
   },
   "adventech/sabbath-school-android": {
     "id": 65243816,
@@ -51,7 +51,7 @@
       "open-source",
       "sabbath-school"
     ],
-    "stars": 198,
+    "stars": 199,
     "license": "MIT",
     "pushedAt": "2026-08-17T14:29:40Z",
     "archived": false,
@@ -67,7 +67,7 @@
     "icon": "assets/icons/adventech--sabbath-school-android.png",
     "iconSource": "https://raw.githubusercontent.com/Adventech/sabbath-school-android/main/app/src/main/ic_launcher-playstore.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:56.196Z"
+    "checked": "2026-11-01T10:30:36.639Z"
   },
   "ahxn00/owntv": {
     "id": 1265730264,
@@ -96,9 +96,9 @@
       "xtream",
       "xtream-codes"
     ],
-    "stars": 608,
+    "stars": 711,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-17T20:02:06Z",
+    "pushedAt": "2026-10-30T11:51:07Z",
     "archived": false,
     "packageId": "tv.own.owntv",
     "appName": null,
@@ -106,13 +106,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v5.2.0",
-      "date": "2026-10-17T20:13:53Z"
+      "tag": "v5.2.1",
+      "date": "2026-10-21T16:45:37Z"
     },
     "icon": "assets/icons/ahxn00--owntv.png",
     "iconSource": "https://raw.githubusercontent.com/ahXN00/OwnTV/main/extras/brand/legacy/icon.png",
     "iconKind": "repo-logo",
-    "checked": "2026-10-20T21:32:18.689Z"
+    "checked": "2026-11-01T10:30:23.354Z"
   },
   "apoorvdarshan/fud-ai": {
     "id": 1150085521,
@@ -142,9 +142,9 @@
       "weight-tracker",
       "workout-tracker"
     ],
-    "stars": 484,
+    "stars": 508,
     "license": "MIT",
-    "pushedAt": "2026-10-20T20:53:25Z",
+    "pushedAt": "2026-10-30T05:06:57Z",
     "archived": false,
     "packageId": "com.apoorvdarshan.calorietracker",
     "appName": null,
@@ -152,13 +152,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "android-v7.2",
-      "date": "2026-10-08T21:13:21Z"
+      "tag": "android-v8.0.1",
+      "date": "2026-10-24T12:01:01Z"
     },
     "icon": "assets/icons/apoorvdarshan--fud-ai.png",
     "iconSource": "https://raw.githubusercontent.com/apoorvdarshan/fud-ai/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:37.062Z"
+    "checked": "2026-11-01T10:30:27.205Z"
   },
   "armanmaurya/internetradio": {
     "id": 1267527198,
@@ -175,9 +175,9 @@
       "radio",
       "streaming"
     ],
-    "stars": 153,
+    "stars": 177,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T04:00:03Z",
+    "pushedAt": "2026-10-31T13:51:30Z",
     "archived": false,
     "packageId": "com.armanmaurya.internetradio",
     "appName": "Internet Radio",
@@ -188,7 +188,7 @@
     "icon": "assets/icons/armanmaurya--internetradio.png",
     "iconSource": "https://raw.githubusercontent.com/armanmaurya/InternetRadio/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:12.722Z"
+    "checked": "2026-11-01T10:30:21.180Z"
   },
   "aurabitcoinwallet/aura-wallet": {
     "id": 1278931111,
@@ -210,7 +210,7 @@
       "self-custody",
       "typescript"
     ],
-    "stars": 76,
+    "stars": 74,
     "license": "MIT",
     "pushedAt": "2026-08-27T16:43:26Z",
     "archived": false,
@@ -223,7 +223,7 @@
     "icon": "assets/icons/aurabitcoinwallet--aura-wallet.png",
     "iconSource": "https://raw.githubusercontent.com/aurabitcoinwallet/aura-wallet/main/img/logo.png",
     "iconKind": "repo-logo",
-    "checked": "2026-10-20T21:32:57.680Z"
+    "checked": "2026-11-01T10:30:37.435Z"
   },
   "ayuilos/miffan": {
     "id": 1335852814,
@@ -250,9 +250,9 @@
       "remote-work",
       "rikkahub"
     ],
-    "stars": 326,
+    "stars": 311,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-20T17:42:29Z",
+    "pushedAt": "2026-10-31T06:53:46Z",
     "archived": false,
     "packageId": "me.ayuilos.miffan.app",
     "appName": "Miffan",
@@ -260,13 +260,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "4.4.0",
-      "date": "2026-10-20T17:07:34Z"
+      "tag": "4.7.1",
+      "date": "2026-10-31T06:53:46Z"
     },
     "icon": "assets/icons/ayuilos--miffan.png",
     "iconSource": "https://raw.githubusercontent.com/Ayuilos/Miffan/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:46.996Z"
+    "checked": "2026-11-01T10:30:32.178Z"
   },
   "bearinmindcat/launcher314": {
     "id": 1173535679,
@@ -282,9 +282,9 @@
       "material-design",
       "open-source"
     ],
-    "stars": 178,
+    "stars": 180,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-12T18:13:32Z",
+    "pushedAt": "2026-10-23T13:32:46Z",
     "archived": false,
     "packageId": "com.bearinmind.launcher314",
     "appName": "Launcher314",
@@ -295,7 +295,7 @@
     "icon": "assets/icons/bearinmindcat--launcher314.png",
     "iconSource": "https://raw.githubusercontent.com/bearinmindcat/Launcher314/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:34.603Z"
+    "checked": "2026-11-01T10:30:28.075Z"
   },
   "binondi/calculator-hide-files": {
     "id": 903001486,
@@ -318,7 +318,7 @@
       "privacy",
       "secure-storage"
     ],
-    "stars": 214,
+    "stars": 218,
     "license": "Apache-2.0",
     "pushedAt": "2026-09-12T16:51:55Z",
     "archived": false,
@@ -331,7 +331,7 @@
     "icon": "assets/icons/binondi--calculator-hide-files.png",
     "iconSource": "https://raw.githubusercontent.com/Binondi/Calculator-Hide-Files/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:03.890Z"
+    "checked": "2026-11-01T10:30:18.935Z"
   },
   "brandonp2412/fitbook": {
     "id": 800343180,
@@ -359,7 +359,7 @@
     ],
     "stars": 176,
     "license": "MIT",
-    "pushedAt": "2026-10-19T09:12:34Z",
+    "pushedAt": "2026-11-01T04:45:30Z",
     "archived": false,
     "packageId": "com.presley.fit_book",
     "appName": "FitBook",
@@ -370,14 +370,14 @@
     "icon": "assets/icons/brandonp2412--fitbook.png",
     "iconSource": "https://raw.githubusercontent.com/brandonp2412/FitBook/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:31.925Z"
+    "checked": "2026-11-01T10:30:27.402Z"
   },
-  "brandonp2412/flexify": {
+  "brandonp2412/flex": {
     "id": 763311265,
-    "fullName": "brandonp2412/Flexify",
-    "url": "https://github.com/brandonp2412/Flexify",
+    "fullName": "brandonp2412/Flex",
+    "url": "https://github.com/brandonp2412/Flex",
     "description": "Offline-first workout tracker for strength and cardio, with progress graphs, rest timers, and custom themes. Built with Flutter.",
-    "homepage": "https://brandonp2412.github.io/Flexify/",
+    "homepage": "https://brandonp2412.github.io/Flex/",
     "topics": [
       "android",
       "cardio",
@@ -396,20 +396,23 @@
       "windows",
       "workout-tracker"
     ],
-    "stars": 449,
+    "stars": 453,
     "license": "MIT",
-    "pushedAt": "2026-10-20T19:36:06Z",
+    "pushedAt": "2026-11-01T06:55:27Z",
     "archived": false,
-    "packageId": "com.presley.flexify",
-    "appName": "Flexify",
+    "packageId": "com.presley.flex",
+    "appName": "Flex",
     "isApp": true,
-    "fdroid": true,
+    "fdroid": false,
     "izzy": false,
-    "release": null,
-    "icon": "assets/icons/brandonp2412--flexify.png",
-    "iconSource": "https://raw.githubusercontent.com/brandonp2412/Flexify/main/fastlane/metadata/android/en-US/images/icon.png",
+    "release": {
+      "tag": "2.2.38",
+      "date": "2026-10-30T02:18:56Z"
+    },
+    "icon": "assets/icons/brandonp2412--flex.png",
+    "iconSource": "https://raw.githubusercontent.com/brandonp2412/Flex/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:32.575Z"
+    "checked": "2026-11-01T10:30:29.447Z"
   },
   "brandonp2412/quitter": {
     "id": 1039848651,
@@ -437,9 +440,9 @@
       "web",
       "windows"
     ],
-    "stars": 191,
+    "stars": 196,
     "license": "MIT",
-    "pushedAt": "2026-10-20T19:22:47Z",
+    "pushedAt": "2026-11-01T05:46:07Z",
     "archived": false,
     "packageId": "com.quitter.app",
     "appName": "Quitter",
@@ -450,7 +453,7 @@
     "icon": "assets/icons/brandonp2412--quitter.png",
     "iconSource": "https://raw.githubusercontent.com/brandonp2412/Quitter/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:34.672Z"
+    "checked": "2026-11-01T10:30:27.402Z"
   },
   "celzero/rethink-app": {
     "id": 270683546,
@@ -476,9 +479,9 @@
       "privacy-enhancing-technologies",
       "wireguard"
     ],
-    "stars": 5646,
+    "stars": 5828,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-18T11:56:29Z",
+    "pushedAt": "2026-10-26T17:43:11Z",
     "archived": false,
     "packageId": "com.celzero.bravedns",
     "appName": "Rethink",
@@ -489,7 +492,7 @@
     "icon": "assets/icons/celzero--rethink-app.png",
     "iconSource": "https://raw.githubusercontent.com/celzero/rethink-app/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:04.188Z"
+    "checked": "2026-11-01T10:30:19.100Z"
   },
   "chindaronit/flux": {
     "id": 997507965,
@@ -509,9 +512,9 @@
       "tasks",
       "worspaces"
     ],
-    "stars": 349,
+    "stars": 352,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-04T17:03:55Z",
+    "pushedAt": "2026-10-25T11:21:41Z",
     "archived": false,
     "packageId": "com.flux",
     "appName": "Flux",
@@ -522,7 +525,7 @@
     "icon": "assets/icons/chindaronit--flux.png",
     "iconSource": "https://f-droid.org/repo/com.flux/en-US/icon.png",
     "iconKind": "f-droid",
-    "checked": "2026-10-20T21:32:23.852Z"
+    "checked": "2026-11-01T10:30:25.194Z"
   },
   "codename-11/hermes-relay": {
     "id": 1201771005,
@@ -542,20 +545,23 @@
       "self-hosted",
       "voice-assistant"
     ],
-    "stars": 361,
+    "stars": 414,
     "license": "MIT",
-    "pushedAt": "2026-10-20T21:23:15Z",
+    "pushedAt": "2026-10-26T12:45:31Z",
     "archived": false,
     "packageId": "com.axiomlabs.hermesrelay",
     "appName": "Hermes-Relay",
     "isApp": true,
     "fdroid": false,
     "izzy": false,
-    "release": null,
+    "release": {
+      "tag": "android-v1.19.0",
+      "date": "2026-10-20T21:36:37Z"
+    },
     "icon": "assets/icons/codename-11--hermes-relay.png",
     "iconSource": "https://raw.githubusercontent.com/Codename-11/hermes-relay/main/desktop/tray/icons/icon-256.png",
     "iconKind": "repo-logo",
-    "checked": "2026-10-20T21:32:48.212Z"
+    "checked": "2026-11-01T10:30:32.391Z"
   },
   "codeworkscreativehub/easylauncher": {
     "id": 796725581,
@@ -596,7 +602,7 @@
     "icon": "assets/icons/codeworkscreativehub--easylauncher.png",
     "iconSource": "https://raw.githubusercontent.com/CodeWorksCreativeHub/EasyLauncher/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:35.925Z"
+    "checked": "2026-11-01T10:30:28.436Z"
   },
   "codeworkscreativehub/mlauncher": {
     "id": 576214961,
@@ -626,9 +632,9 @@
       "text",
       "viewmodel"
     ],
-    "stars": 308,
+    "stars": 309,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T02:45:56Z",
+    "pushedAt": "2026-11-01T03:25:58Z",
     "archived": false,
     "packageId": "app.mlauncher",
     "appName": "Multi Launcher",
@@ -639,7 +645,7 @@
     "icon": "assets/icons/codeworkscreativehub--mlauncher.png",
     "iconSource": "https://raw.githubusercontent.com/CodeWorksCreativeHub/mLauncher/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:39.268Z"
+    "checked": "2026-11-01T10:30:28.588Z"
   },
   "darriousliu/pipixiv": {
     "id": 656227310,
@@ -666,9 +672,9 @@
       "third-party",
       "windows-app"
     ],
-    "stars": 266,
+    "stars": 270,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-20T19:01:09Z",
+    "pushedAt": "2026-10-30T20:29:11Z",
     "archived": false,
     "packageId": "com.mrl.pixiv",
     "appName": "PiPixiv",
@@ -679,7 +685,7 @@
     "icon": "assets/icons/darriousliu--pipixiv.png",
     "iconSource": "https://raw.githubusercontent.com/darriousliu/PiPixiv/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:21.639Z"
+    "checked": "2026-11-01T10:30:24.202Z"
   },
   "dhananjaybhosale/hilight-studio": {
     "id": 1339264385,
@@ -696,9 +702,9 @@
       "rgb-led",
       "shizuku"
     ],
-    "stars": 366,
+    "stars": 378,
     "license": "MIT",
-    "pushedAt": "2026-10-07T21:44:16Z",
+    "pushedAt": "2026-10-21T21:44:29Z",
     "archived": false,
     "packageId": "com.hilight.studio",
     "appName": "HiLight Studio",
@@ -709,14 +715,14 @@
     "icon": "assets/icons/dhananjaybhosale--hilight-studio.png",
     "iconSource": "https://raw.githubusercontent.com/DhananjayBhosale/hilight-studio/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:53.419Z"
+    "checked": "2026-11-01T10:30:35.099Z"
   },
   "earendel-lab/tapbar": {
     "id": 1379726830,
     "fullName": "Earendel-lab/Tapbar",
     "url": "https://github.com/Earendel-lab/Tapbar",
     "description": "Launch any app or trigger quick actions from the status bar or anywhere on your screen.",
-    "homepage": "",
+    "homepage": "https://earendel-lab.github.io/Tapbar/",
     "topics": [
       "android",
       "app-launcher",
@@ -730,9 +736,9 @@
       "statusbar-app",
       "tasker"
     ],
-    "stars": 180,
+    "stars": 201,
     "license": "MIT",
-    "pushedAt": "2026-10-18T21:26:40Z",
+    "pushedAt": "2026-10-22T10:02:55Z",
     "archived": false,
     "packageId": "com.earendel.tapbar",
     "appName": "Tapbar",
@@ -743,7 +749,7 @@
     "icon": "assets/icons/earendel-lab--tapbar.png",
     "iconSource": "https://raw.githubusercontent.com/Earendel-lab/Tapbar/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:37.240Z"
+    "checked": "2026-11-01T10:30:29.190Z"
   },
   "eddyizm/tempus": {
     "id": 1029760678,
@@ -767,9 +773,9 @@
       "subsonic",
       "subsonic-client"
     ],
-    "stars": 1379,
+    "stars": 1406,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T23:44:42Z",
+    "pushedAt": "2026-10-28T22:34:12Z",
     "archived": false,
     "packageId": "com.eddyizm.tempus",
     "appName": "Tempus",
@@ -777,13 +783,53 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v4.30.0",
-      "date": "2026-10-18T16:57:13Z"
+      "tag": "v4.31.0",
+      "date": "2026-10-25T22:08:47Z"
     },
     "icon": "assets/icons/eddyizm--tempus.png",
     "iconSource": "https://raw.githubusercontent.com/eddyizm/tempus/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:12.869Z"
+    "checked": "2026-11-01T10:30:21.403Z"
+  },
+  "ente/ente": {
+    "id": 560284721,
+    "fullName": "ente/ente",
+    "url": "https://github.com/ente/ente",
+    "description": "💚 End-to-end encrypted cloud for everything.",
+    "homepage": "https://ente.com",
+    "topics": [
+      "2fa",
+      "android",
+      "authy",
+      "e2ee",
+      "encryption",
+      "end-to-end-encryption",
+      "flutter",
+      "golang",
+      "google-photos",
+      "google-photos-alternative",
+      "ios",
+      "opensource",
+      "photos",
+      "privacy",
+      "privacy-tools",
+      "typescript",
+      "zero-knowledge"
+    ],
+    "stars": 29807,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-31T13:20:52Z",
+    "archived": false,
+    "packageId": "io.ente.auth",
+    "appName": "Ente Auth",
+    "isApp": true,
+    "fdroid": true,
+    "izzy": false,
+    "release": null,
+    "icon": "assets/icons/ente--ente.png",
+    "iconSource": "https://raw.githubusercontent.com/ente/ente/main/mobile/apps/auth/android/app/src/main/play/listings/en-US/graphics/icon/icon.png",
+    "iconKind": "store-metadata",
+    "checked": "2026-11-01T10:30:18.916Z"
   },
   "erik-sutton95/openpocketcine": {
     "id": 1333528270,
@@ -801,9 +847,9 @@
       "osmo-pocket",
       "swift"
     ],
-    "stars": 343,
+    "stars": 390,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-20T21:20:05Z",
+    "pushedAt": "2026-11-01T02:31:47Z",
     "archived": false,
     "packageId": "com.opencapture.openpocketcine",
     "appName": "OpenPocketCine",
@@ -817,7 +863,7 @@
     "icon": "assets/icons/erik-sutton95--openpocketcine.png",
     "iconSource": "https://raw.githubusercontent.com/erik-sutton95/OpenPocketCine/main/Apps/Android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:22.009Z"
+    "checked": "2026-11-01T10:30:24.785Z"
   },
   "f-droid/fdroidclient": {
     "id": 22165604,
@@ -831,9 +877,9 @@
       "package-manager",
       "store"
     ],
-    "stars": 3225,
+    "stars": 3255,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T21:40:50Z",
+    "pushedAt": "2026-10-29T17:27:14Z",
     "archived": false,
     "packageId": "org.fdroid.fdroid",
     "appName": "F-Droid Basic",
@@ -844,7 +890,7 @@
     "icon": "assets/icons/f-droid--fdroidclient.png",
     "iconSource": "https://raw.githubusercontent.com/f-droid/fdroidclient/master/src/full/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:45.058Z"
+    "checked": "2026-11-01T10:30:31.249Z"
   },
   "flow-tube/flow": {
     "id": 1079329832,
@@ -864,9 +910,9 @@
       "youtube",
       "youtube-client"
     ],
-    "stars": 2941,
+    "stars": 3231,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T15:51:25Z",
+    "pushedAt": "2026-11-01T03:45:23Z",
     "archived": false,
     "packageId": "io.github.aedev.flow",
     "appName": "Flow",
@@ -877,7 +923,49 @@
     "icon": "assets/icons/flow-tube--flow.png",
     "iconSource": "https://raw.githubusercontent.com/Flow-Tube/Flow/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:18.464Z"
+    "checked": "2026-11-01T10:30:23.188Z"
+  },
+  "flutter/flutter": {
+    "id": 31792824,
+    "fullName": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+    "homepage": "https://flutter.dev",
+    "topics": [
+      "android",
+      "app-framework",
+      "cross-platform",
+      "dart",
+      "dart-platform",
+      "desktop",
+      "flutter",
+      "flutter-package",
+      "fuchsia",
+      "ios",
+      "linux-desktop",
+      "macos",
+      "material-design",
+      "mobile",
+      "mobile-development",
+      "skia",
+      "web",
+      "web-framework",
+      "windows"
+    ],
+    "stars": 180883,
+    "license": "BSD-3-Clause",
+    "pushedAt": "2026-10-31T22:32:35Z",
+    "archived": false,
+    "packageId": "dev.flutter.manual_tests",
+    "appName": "manual_tests",
+    "isApp": true,
+    "fdroid": false,
+    "izzy": false,
+    "release": null,
+    "icon": "assets/icons/flutter--flutter.png",
+    "iconSource": "https://raw.githubusercontent.com/flutter/flutter/master/engine/src/flutter/docs/flutter_logo.png",
+    "iconKind": "repo-logo",
+    "checked": "2026-11-01T10:30:35.687Z"
   },
   "fossifyorg/calculator": {
     "id": 498017491,
@@ -892,9 +980,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 454,
+    "stars": 457,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:42Z",
+    "pushedAt": "2026-11-01T05:45:55Z",
     "archived": false,
     "packageId": "org.fossify.math",
     "appName": "Fossify Calculator",
@@ -905,7 +993,7 @@
     "icon": "assets/icons/fossifyorg--calculator.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Calculator/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:53.602Z"
+    "checked": "2026-11-01T10:30:35.370Z"
   },
   "fossifyorg/calendar": {
     "id": 492611621,
@@ -920,9 +1008,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 2244,
+    "stars": 2264,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T17:44:09Z",
+    "pushedAt": "2026-11-01T03:31:52Z",
     "archived": false,
     "packageId": "org.fossify.calendar",
     "appName": "Fossify Calendar",
@@ -933,7 +1021,7 @@
     "icon": "assets/icons/fossifyorg--calendar.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Calendar/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:24.584Z"
+    "checked": "2026-11-01T10:30:25.482Z"
   },
   "fossifyorg/camera": {
     "id": 559768640,
@@ -948,9 +1036,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 476,
+    "stars": 486,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:43Z",
+    "pushedAt": "2026-11-01T04:57:30Z",
     "archived": false,
     "packageId": "org.fossify.camera",
     "appName": "Fossify Camera",
@@ -961,7 +1049,7 @@
     "icon": "assets/icons/fossifyorg--camera.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Camera/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:22.303Z"
+    "checked": "2026-11-01T10:30:24.595Z"
   },
   "fossifyorg/clock": {
     "id": 508176392,
@@ -976,9 +1064,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 712,
+    "stars": 718,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:41Z",
+    "pushedAt": "2026-11-01T05:36:15Z",
     "archived": false,
     "packageId": "org.fossify.clock",
     "appName": "Fossify Clock",
@@ -989,7 +1077,7 @@
     "icon": "assets/icons/fossifyorg--clock.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Clock/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:53.543Z"
+    "checked": "2026-11-01T10:30:35.375Z"
   },
   "fossifyorg/contacts": {
     "id": 530679875,
@@ -1004,9 +1092,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 929,
+    "stars": 939,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:43Z",
+    "pushedAt": "2026-11-01T03:41:44Z",
     "archived": false,
     "packageId": "org.fossify.contacts",
     "appName": "Fossify Contacts",
@@ -1017,7 +1105,7 @@
     "icon": "assets/icons/fossifyorg--contacts.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Contacts/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:08.858Z"
+    "checked": "2026-11-01T10:30:20.347Z"
   },
   "fossifyorg/documents": {
     "id": 920871589,
@@ -1035,9 +1123,9 @@
       "open-source",
       "pdf"
     ],
-    "stars": 186,
+    "stars": 200,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:50Z",
+    "pushedAt": "2026-11-01T01:39:13Z",
     "archived": false,
     "packageId": "org.fossify.documents",
     "appName": "Fossify Documents",
@@ -1048,7 +1136,7 @@
     "icon": "assets/icons/fossifyorg--documents.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Documents/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:25.143Z"
+    "checked": "2026-11-01T10:30:25.458Z"
   },
   "fossifyorg/file-manager": {
     "id": 496918131,
@@ -1063,9 +1151,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 1828,
+    "stars": 1846,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:52Z",
+    "pushedAt": "2026-11-01T03:56:47Z",
     "archived": false,
     "packageId": "org.fossify.filemanager",
     "appName": "Fossify File Manager",
@@ -1076,7 +1164,7 @@
     "icon": "assets/icons/fossifyorg--file-manager.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/File-Manager/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:54.483Z"
+    "checked": "2026-11-01T10:30:35.764Z"
   },
   "fossifyorg/flashlight": {
     "id": 726775058,
@@ -1092,7 +1180,7 @@
       "open-source",
       "torch"
     ],
-    "stars": 153,
+    "stars": 154,
     "license": "GPL-3.0",
     "pushedAt": "2026-09-28T18:26:27Z",
     "archived": true,
@@ -1105,7 +1193,7 @@
     "icon": "assets/icons/fossifyorg--flashlight.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Flashlight/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:55.555Z"
+    "checked": "2026-11-01T10:30:35.898Z"
   },
   "fossifyorg/gallery": {
     "id": 502586319,
@@ -1120,9 +1208,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 3823,
+    "stars": 3871,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:55Z",
+    "pushedAt": "2026-11-01T01:39:22Z",
     "archived": false,
     "packageId": "org.fossify.gallery",
     "appName": "Fossify Gallery",
@@ -1133,7 +1221,7 @@
     "icon": "assets/icons/fossifyorg--gallery.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Gallery/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:23.015Z"
+    "checked": "2026-11-01T10:30:24.908Z"
   },
   "fossifyorg/keyboard": {
     "id": 516439882,
@@ -1148,9 +1236,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 689,
+    "stars": 700,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T05:43:27Z",
+    "pushedAt": "2026-11-01T04:15:23Z",
     "archived": false,
     "packageId": "org.fossify.keyboard",
     "appName": "Fossify Keyboard",
@@ -1161,7 +1249,7 @@
     "icon": "assets/icons/fossifyorg--keyboard.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Keyboard/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:38.551Z"
+    "checked": "2026-11-01T10:30:28.994Z"
   },
   "fossifyorg/launcher": {
     "id": 642519377,
@@ -1176,9 +1264,9 @@
       "launcher",
       "open-source"
     ],
-    "stars": 713,
+    "stars": 720,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:55Z",
+    "pushedAt": "2026-11-01T05:44:32Z",
     "archived": false,
     "packageId": "org.fossify.home",
     "appName": "Fossify Launcher",
@@ -1189,7 +1277,7 @@
     "icon": "assets/icons/fossifyorg--launcher.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Launcher/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:39.267Z"
+    "checked": "2026-11-01T10:30:29.271Z"
   },
   "fossifyorg/messages": {
     "id": 502522337,
@@ -1204,9 +1292,9 @@
       "open-source",
       "sms-messenger"
     ],
-    "stars": 1611,
+    "stars": 1627,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T17:43:57Z",
+    "pushedAt": "2026-11-01T03:11:20Z",
     "archived": false,
     "packageId": "org.fossify.messages",
     "appName": "Fossify Messages",
@@ -1217,7 +1305,7 @@
     "icon": "assets/icons/fossifyorg--messages.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Messages/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:08.861Z"
+    "checked": "2026-11-01T10:30:20.666Z"
   },
   "fossifyorg/music-player": {
     "id": 564870379,
@@ -1232,9 +1320,9 @@
       "music-player",
       "open-source"
     ],
-    "stars": 947,
+    "stars": 960,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:50:55Z",
+    "pushedAt": "2026-11-01T02:48:13Z",
     "archived": false,
     "packageId": "org.fossify.musicplayer",
     "appName": "Fossify Music Player",
@@ -1245,7 +1333,7 @@
     "icon": "assets/icons/fossifyorg--music-player.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Music-Player/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:14.628Z"
+    "checked": "2026-11-01T10:30:21.767Z"
   },
   "fossifyorg/notes": {
     "id": 614015332,
@@ -1260,9 +1348,9 @@
       "notes",
       "open-source"
     ],
-    "stars": 504,
+    "stars": 509,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T21:23:55Z",
+    "pushedAt": "2026-11-01T04:06:51Z",
     "archived": false,
     "packageId": "org.fossify.notes",
     "appName": "Fossify Notes",
@@ -1273,7 +1361,7 @@
     "icon": "assets/icons/fossifyorg--notes.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Notes/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:25.107Z"
+    "checked": "2026-11-01T10:30:25.385Z"
   },
   "fossifyorg/paint": {
     "id": 548621573,
@@ -1288,9 +1376,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 317,
+    "stars": 323,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T10:34:48Z",
+    "pushedAt": "2026-11-01T09:45:16Z",
     "archived": false,
     "packageId": "org.fossify.paint",
     "appName": "Fossify Paint",
@@ -1301,7 +1389,7 @@
     "icon": "assets/icons/fossifyorg--paint.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Paint/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:22.779Z"
+    "checked": "2026-11-01T10:30:24.927Z"
   },
   "fossifyorg/phone": {
     "id": 499759123,
@@ -1316,9 +1404,9 @@
       "kotlin",
       "open-source"
     ],
-    "stars": 1381,
+    "stars": 1397,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-19T12:23:39Z",
+    "pushedAt": "2026-11-01T04:21:32Z",
     "archived": false,
     "packageId": "org.fossify.phone",
     "appName": "Fossify Phone",
@@ -1329,7 +1417,7 @@
     "icon": "assets/icons/fossifyorg--phone.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Phone/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:12.532Z"
+    "checked": "2026-11-01T10:30:20.620Z"
   },
   "fossifyorg/voice-recorder": {
     "id": 595828370,
@@ -1344,9 +1432,9 @@
       "open-source",
       "voice-recorder"
     ],
-    "stars": 1023,
+    "stars": 1035,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T09:51:05Z",
+    "pushedAt": "2026-11-01T05:18:36Z",
     "archived": false,
     "packageId": "org.fossify.voicerecorder",
     "appName": "Fossify Voice Recorder",
@@ -1357,7 +1445,7 @@
     "icon": "assets/icons/fossifyorg--voice-recorder.png",
     "iconSource": "https://raw.githubusercontent.com/FossifyOrg/Voice-Recorder/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:15.230Z"
+    "checked": "2026-11-01T10:30:21.901Z"
   },
   "friesi23/mhabit": {
     "id": 632693436,
@@ -1387,9 +1475,9 @@
       "webdav",
       "windows"
     ],
-    "stars": 1666,
+    "stars": 1684,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-20T02:53:10Z",
+    "pushedAt": "2026-11-01T09:02:35Z",
     "archived": false,
     "packageId": "io.github.friesi23.mhabit",
     "appName": "Table Habit",
@@ -1400,7 +1488,7 @@
     "icon": "assets/icons/friesi23--mhabit.png",
     "iconSource": "https://f-droid.org/repo/io.github.friesi23.mhabit/en-US/icon.png",
     "iconKind": "f-droid",
-    "checked": "2026-10-20T21:32:25.381Z"
+    "checked": "2026-11-01T10:30:25.681Z"
   },
   "hash-studios/prism": {
     "id": 255363244,
@@ -1425,9 +1513,9 @@
       "wallhaven-api",
       "wallpaper"
     ],
-    "stars": 665,
+    "stars": 668,
     "license": "BSD-3-Clause",
-    "pushedAt": "2026-10-20T19:17:42Z",
+    "pushedAt": "2026-11-01T09:44:25Z",
     "archived": false,
     "packageId": "com.hash.prism",
     "appName": "Prism",
@@ -1438,7 +1526,7 @@
     "icon": "assets/icons/hash-studios--prism.png",
     "iconSource": "https://raw.githubusercontent.com/Hash-Studios/Prism/master/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:39.624Z"
+    "checked": "2026-11-01T10:30:29.709Z"
   },
   "https://gitlab.torproject.org/tpo/applications/tor-browser": {
     "url": "https://gitlab.torproject.org/tpo/applications/tor-browser",
@@ -1446,7 +1534,7 @@
     "fdroid": false,
     "izzy": false,
     "isApp": true,
-    "checked": "2026-10-20T21:32:09.229Z",
+    "checked": "2026-11-01T10:30:20.348Z",
     "icon": "assets/overrides/tor-browser.png",
     "iconSource": "assets/overrides/tor-browser.png",
     "iconKind": "override"
@@ -1469,9 +1557,9 @@
       "self-hosted",
       "subsonic"
     ],
-    "stars": 204,
+    "stars": 218,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T20:56:49Z",
+    "pushedAt": "2026-10-31T21:23:21Z",
     "archived": false,
     "packageId": null,
     "appName": null,
@@ -1479,13 +1567,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v0.8.4",
-      "date": "2026-10-20T20:56:47Z"
+      "tag": "v0.8.6",
+      "date": "2026-10-31T21:08:46Z"
     },
     "icon": "assets/icons/juananzzz--resonus.png",
     "iconSource": "https://raw.githubusercontent.com/juananzzz/resonus/main/assets/images/icon.png",
     "iconKind": "repo-logo",
-    "checked": "2026-10-20T21:32:15.377Z"
+    "checked": "2026-11-01T10:30:21.823Z"
   },
   "kaleedtc/privacium": {
     "id": 1011442017,
@@ -1512,9 +1600,9 @@
       "security",
       "surveillance"
     ],
-    "stars": 300,
+    "stars": 301,
     "license": "MIT",
-    "pushedAt": "2026-10-14T19:32:20Z",
+    "pushedAt": "2026-10-27T14:33:51Z",
     "archived": false,
     "packageId": "com.kaleedtc.privacium",
     "appName": "Privacium",
@@ -1525,7 +1613,7 @@
     "icon": "assets/icons/kaleedtc--privacium.png",
     "iconSource": "https://raw.githubusercontent.com/kaleedtc/Privacium/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:04.197Z"
+    "checked": "2026-11-01T10:30:19.099Z"
   },
   "karna14314/pdf_tools": {
     "id": 1122601977,
@@ -1544,9 +1632,9 @@
       "pdf",
       "pdf-editor"
     ],
-    "stars": 651,
+    "stars": 682,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-10T19:16:39Z",
+    "pushedAt": "2026-10-31T19:35:33Z",
     "archived": false,
     "packageId": "com.yourname.pdftoolkit",
     "appName": "PDF Toolkit",
@@ -1557,7 +1645,7 @@
     "icon": "assets/icons/karna14314--pdf-tools.png",
     "iconSource": "https://raw.githubusercontent.com/Karna14314/Pdf_Tools/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:25.634Z"
+    "checked": "2026-11-01T10:30:25.846Z"
   },
   "kashcal/kashcal": {
     "id": 1132485672,
@@ -1587,9 +1675,9 @@
       "shared-calendar",
       "sports-calendar"
     ],
-    "stars": 456,
+    "stars": 465,
     "license": null,
-    "pushedAt": "2026-10-16T21:47:51Z",
+    "pushedAt": "2026-10-30T13:14:32Z",
     "archived": false,
     "packageId": "org.onekash.kashcal",
     "appName": "KashCal",
@@ -1600,7 +1688,7 @@
     "icon": "assets/icons/kashcal--kashcal.png",
     "iconSource": "https://raw.githubusercontent.com/KashCal/KashCal/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:26.682Z"
+    "checked": "2026-11-01T10:30:25.969Z"
   },
   "klyx-dev/klyx": {
     "id": 993131152,
@@ -1611,21 +1699,11 @@
     "topics": [
       "android",
       "code-editor",
-      "developer-tools",
-      "editor",
-      "jetpack-compose",
-      "klyx",
-      "klyx-editor",
-      "kotlin",
-      "lightweight",
-      "material-expressive",
-      "material3",
-      "open-source",
       "text-editor"
     ],
-    "stars": 165,
+    "stars": 167,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T11:57:09Z",
+    "pushedAt": "2026-10-31T16:30:19Z",
     "archived": false,
     "packageId": null,
     "appName": "Klyx",
@@ -1639,7 +1717,7 @@
     "icon": "assets/icons/klyx-dev--klyx.png",
     "iconSource": "https://raw.githubusercontent.com/klyx-dev/klyx/main/android-app/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:50.319Z"
+    "checked": "2026-11-01T10:30:34.298Z"
   },
   "komi-store/komi-store": {
     "id": 1101281251,
@@ -1659,9 +1737,9 @@
       "privacy",
       "windows"
     ],
-    "stars": 19664,
+    "stars": 20194,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-20T18:26:23Z",
+    "pushedAt": "2026-11-01T04:14:48Z",
     "archived": false,
     "packageId": null,
     "appName": "Komi Store",
@@ -1669,13 +1747,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v1.9.2",
-      "date": "2026-06-26T06:04:58Z"
+      "tag": "v1.9.4",
+      "date": "2026-10-24T06:23:03Z"
     },
     "icon": "assets/icons/komi-store--komi-store.png",
     "iconSource": "https://raw.githubusercontent.com/komi-store/komi-store/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:45.711Z"
+    "checked": "2026-11-01T10:30:31.605Z"
   },
   "kunzisoft/keepassdx": {
     "id": 107244490,
@@ -1700,9 +1778,9 @@
       "prf",
       "vault"
     ],
-    "stars": 7510,
+    "stars": 7581,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-17T20:51:31Z",
+    "pushedAt": "2026-11-01T09:37:49Z",
     "archived": false,
     "packageId": "com.kunzisoft.keepass.libre",
     "appName": "KeePassDX Passkey Vault",
@@ -1713,14 +1791,14 @@
     "icon": "assets/icons/kunzisoft--keepassdx.png",
     "iconSource": "https://raw.githubusercontent.com/Kunzisoft/KeePassDX/master/src/libre/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:04.193Z"
+    "checked": "2026-11-01T10:30:19.429Z"
   },
   "leanbitlab-org/ltvlauncher": {
     "id": 1135560876,
     "fullName": "leanbitlab-org/LtvLauncher",
     "url": "https://github.com/leanbitlab-org/LtvLauncher",
     "description": "A minimal, open-source Android TV launcher featuring WiFi data usage widget, an inbuilt OLED friendly screensaver, and improved UX. A customized fork of FLauncher.",
-    "homepage": "https://leanbitlab.github.io/LeanBitLab/",
+    "homepage": "https://leanbitlab.github.io",
     "topics": [
       "android",
       "android-tv",
@@ -1734,9 +1812,9 @@
       "no-ads",
       "open-source"
     ],
-    "stars": 397,
+    "stars": 443,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T03:23:21Z",
+    "pushedAt": "2026-11-01T04:23:37Z",
     "archived": false,
     "packageId": "com.leanbitlab.ltvL",
     "appName": "LTvLauncher",
@@ -1747,7 +1825,7 @@
     "icon": "assets/icons/leanbitlab-org--ltvlauncher.png",
     "iconSource": "https://raw.githubusercontent.com/leanbitlab-org/LtvLauncher/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:40.005Z"
+    "checked": "2026-11-01T10:30:30.084Z"
   },
   "lexica/lexica": {
     "id": 46906503,
@@ -1773,7 +1851,7 @@
     "icon": "assets/icons/lexica--lexica.png",
     "iconSource": "https://raw.githubusercontent.com/lexica/lexica/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:58.986Z"
+    "checked": "2026-11-01T10:30:37.389Z"
   },
   "lneugebauer/nextcloud-cookbook": {
     "id": 397373765,
@@ -1794,7 +1872,7 @@
     ],
     "stars": 110,
     "license": "MIT",
-    "pushedAt": "2026-10-17T14:04:19Z",
+    "pushedAt": "2026-10-24T14:36:00Z",
     "archived": false,
     "packageId": "de.lukasneugebauer.nextcloudcookbook",
     "appName": "Nextcloud Cookbook",
@@ -1805,7 +1883,7 @@
     "icon": "assets/icons/lneugebauer--nextcloud-cookbook.png",
     "iconSource": "https://raw.githubusercontent.com/lneugebauer/nextcloud-cookbook/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:50.272Z"
+    "checked": "2026-11-01T10:30:33.139Z"
   },
   "m66b/netguard": {
     "id": 44877925,
@@ -1814,7 +1892,7 @@
     "description": "A simple way to block access to the internet per app",
     "homepage": "http://www.netguard.me/",
     "topics": [],
-    "stars": 3940,
+    "stars": 3954,
     "license": "GPL-3.0",
     "pushedAt": "2026-08-01T21:29:40Z",
     "archived": false,
@@ -1827,7 +1905,7 @@
     "icon": "assets/icons/m66b--netguard.png",
     "iconSource": "https://raw.githubusercontent.com/M66B/NetGuard/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:04.209Z"
+    "checked": "2026-11-01T10:30:19.884Z"
   },
   "mahdi-mortazavi/relay": {
     "id": 1292422137,
@@ -1857,9 +1935,9 @@
       "winui3",
       "wireguard"
     ],
-    "stars": 219,
+    "stars": 234,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-12T10:12:48Z",
+    "pushedAt": "2026-10-28T13:44:37Z",
     "archived": false,
     "packageId": "io.relay.app",
     "appName": "Relay",
@@ -1867,13 +1945,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v2.9.0",
-      "date": "2026-09-17T12:29:17Z"
+      "tag": "v2.11.1",
+      "date": "2026-10-21T21:56:21Z"
     },
     "icon": "assets/icons/mahdi-mortazavi--relay.svg",
     "iconSource": null,
     "iconKind": "monogram",
-    "checked": "2026-10-20T21:32:12.248Z"
+    "checked": "2026-11-01T10:30:21.912Z"
   },
   "maocide/undeadwallpaper": {
     "id": 1039652221,
@@ -1894,7 +1972,7 @@
       "open-source",
       "video-wallpaper"
     ],
-    "stars": 145,
+    "stars": 146,
     "license": "GPL-3.0",
     "pushedAt": "2026-10-16T14:20:58Z",
     "archived": false,
@@ -1910,7 +1988,7 @@
     "icon": "assets/icons/maocide--undeadwallpaper.png",
     "iconSource": "https://raw.githubusercontent.com/maocide/UndeadWallpaper/master/app/src/main/ic_launcher-playstore.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:40.670Z"
+    "checked": "2026-11-01T10:30:30.239Z"
   },
   "mateusz-bak/openreads": {
     "id": 359926431,
@@ -1930,7 +2008,7 @@
       "opensource",
       "privacy"
     ],
-    "stars": 1654,
+    "stars": 1666,
     "license": "GPL-2.0",
     "pushedAt": "2026-09-14T14:51:37Z",
     "archived": false,
@@ -1943,7 +2021,7 @@
     "icon": "assets/icons/mateusz-bak--openreads.png",
     "iconSource": "https://raw.githubusercontent.com/mateusz-bak/openreads/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:28.016Z"
+    "checked": "2026-11-01T10:30:26.417Z"
   },
   "moimob/drinkable": {
     "id": 473130674,
@@ -1960,9 +2038,9 @@
       "open-source",
       "typescript"
     ],
-    "stars": 182,
+    "stars": 181,
     "license": "MIT",
-    "pushedAt": "2026-10-15T16:11:09Z",
+    "pushedAt": "2026-10-27T00:47:20Z",
     "archived": false,
     "packageId": "com.moimob.drinkable",
     "appName": "Drinkable",
@@ -1973,7 +2051,7 @@
     "icon": "assets/icons/moimob--drinkable.png",
     "iconSource": "https://raw.githubusercontent.com/MOIMOB/drinkable/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:57.420Z"
+    "checked": "2026-11-01T10:30:37.010Z"
   },
   "monica-pass/monica": {
     "id": 1070281089,
@@ -1994,9 +2072,9 @@
       "privacy",
       "totp"
     ],
-    "stars": 1157,
+    "stars": 1191,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T21:20:17Z",
+    "pushedAt": "2026-11-01T09:21:16Z",
     "archived": false,
     "packageId": "takagi.ru.monica",
     "appName": "Monica",
@@ -2004,13 +2082,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "V1.0.320",
-      "date": "2026-10-16T14:30:38Z"
+      "tag": "V1.0.323b",
+      "date": "2026-10-31T14:54:31Z"
     },
     "icon": "assets/icons/monica-pass--monica.png",
     "iconSource": "https://raw.githubusercontent.com/Monica-Pass/Monica/main/Monica%20for%20Android/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:04.661Z"
+    "checked": "2026-11-01T10:30:19.722Z"
   },
   "n-zik-group/n-zik": {
     "id": 985361691,
@@ -2038,9 +2116,9 @@
       "youtube-player",
       "youtube-video"
     ],
-    "stars": 266,
+    "stars": 280,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T20:23:27Z",
+    "pushedAt": "2026-11-01T05:26:07Z",
     "archived": false,
     "packageId": null,
     "appName": "N-Zik",
@@ -2048,13 +2126,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v8.4.5",
-      "date": "2026-10-13T17:11:15Z"
+      "tag": "v8.5.0",
+      "date": "2026-10-28T00:30:19Z"
     },
     "icon": "assets/icons/n-zik-group--n-zik.png",
     "iconSource": "https://raw.githubusercontent.com/N-Zik-Group/N-Zik/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:15.566Z"
+    "checked": "2026-11-01T10:30:22.230Z"
   },
   "neamar/kiss": {
     "id": 6047468,
@@ -2063,9 +2141,9 @@
     "description": "Lightning fast, open-source, < 250kb Android launcher",
     "homepage": "https://kisslauncher.com/",
     "topics": [],
-    "stars": 3520,
+    "stars": 3528,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-18T21:24:13Z",
+    "pushedAt": "2026-11-01T09:44:15Z",
     "archived": false,
     "packageId": "fr.neamar.kiss",
     "appName": "KISS Launcher",
@@ -2076,7 +2154,7 @@
     "icon": "assets/icons/neamar--kiss.png",
     "iconSource": "https://raw.githubusercontent.com/Neamar/KISS/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:41.814Z"
+    "checked": "2026-11-01T10:30:30.212Z"
   },
   "neoapplications/neo-launcher": {
     "id": 275966393,
@@ -2088,9 +2166,9 @@
       "android",
       "launcher"
     ],
-    "stars": 2150,
+    "stars": 2153,
     "license": "GPL-3.0",
-    "pushedAt": "2026-09-26T04:15:47Z",
+    "pushedAt": "2026-10-25T20:27:35Z",
     "archived": false,
     "packageId": "com.saggitt.omega",
     "appName": "Neo Launcher",
@@ -2101,7 +2179,7 @@
     "icon": "assets/icons/neoapplications--neo-launcher.png",
     "iconSource": "https://raw.githubusercontent.com/NeoApplications/Neo-Launcher/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:42.491Z"
+    "checked": "2026-11-01T10:30:30.295Z"
   },
   "nextcloud/android": {
     "id": 60561834,
@@ -2120,9 +2198,9 @@
       "open-source",
       "opensource"
     ],
-    "stars": 5644,
+    "stars": 5673,
     "license": "GPL-2.0",
-    "pushedAt": "2026-10-20T19:45:59Z",
+    "pushedAt": "2026-11-01T09:41:19Z",
     "archived": false,
     "packageId": "com.nextcloud.android",
     "appName": null,
@@ -2130,13 +2208,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "stable-35.0.1",
-      "date": "2026-10-05T10:46:59Z"
+      "tag": "stable-35.0.2",
+      "date": "2026-10-28T11:21:12Z"
     },
     "icon": "assets/icons/nextcloud--android.png",
     "iconSource": "https://raw.githubusercontent.com/nextcloud/android/master/app/src/main/ic_launcher-web.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:51.388Z"
+    "checked": "2026-11-01T10:30:33.956Z"
   },
   "nextcloud/news-android": {
     "id": 10296149,
@@ -2153,9 +2231,9 @@
       "rss",
       "rss-reader"
     ],
-    "stars": 768,
+    "stars": 769,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T05:22:05Z",
+    "pushedAt": "2026-11-01T03:57:54Z",
     "archived": false,
     "packageId": "de.luhmer.owncloudnewsreader",
     "appName": "Nextcloud News",
@@ -2166,7 +2244,7 @@
     "icon": "assets/icons/nextcloud--news-android.png",
     "iconSource": "https://raw.githubusercontent.com/nextcloud/news-android/master/fastlane/metadata/android/de-DE/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:29.828Z"
+    "checked": "2026-11-01T10:30:26.683Z"
   },
   "nextcloud/talk-android": {
     "id": 103100469,
@@ -2184,9 +2262,9 @@
       "open-source",
       "video"
     ],
-    "stars": 747,
+    "stars": 750,
     "license": null,
-    "pushedAt": "2026-10-20T15:30:51Z",
+    "pushedAt": "2026-11-01T09:41:25Z",
     "archived": false,
     "packageId": "com.nextcloud.talk2",
     "appName": "Nextcloud Talk",
@@ -2197,7 +2275,7 @@
     "icon": "assets/icons/nextcloud--talk-android.png",
     "iconSource": "https://raw.githubusercontent.com/nextcloud/talk-android/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:12.524Z"
+    "checked": "2026-11-01T10:30:20.778Z"
   },
   "nova-video-player/aos-avp": {
     "id": 133509731,
@@ -2213,9 +2291,9 @@
       "player",
       "video"
     ],
-    "stars": 4746,
+    "stars": 4774,
     "license": "Apache-2.0",
-    "pushedAt": "2026-10-09T19:19:45Z",
+    "pushedAt": "2026-10-27T18:05:14Z",
     "archived": false,
     "packageId": "org.courville.nova",
     "appName": null,
@@ -2226,7 +2304,7 @@
     "icon": "assets/icons/nova-video-player--aos-avp.png",
     "iconSource": "https://raw.githubusercontent.com/nova-video-player/aos-AVP/nova/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:17.634Z"
+    "checked": "2026-11-01T10:30:23.373Z"
   },
   "obiente/native": {
     "id": 1311107520,
@@ -2254,9 +2332,9 @@
       "webdav",
       "windows"
     ],
-    "stars": 722,
+    "stars": 726,
     "license": "AGPL-3.0",
-    "pushedAt": "2026-10-19T17:03:51Z",
+    "pushedAt": "2026-10-30T07:51:38Z",
     "archived": false,
     "packageId": "dev.obiente.nextcloudnative",
     "appName": "nati.ve",
@@ -2267,7 +2345,7 @@
     "icon": "assets/icons/obiente--native.png",
     "iconSource": "https://raw.githubusercontent.com/Obiente/native/main/androidApp/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:52.097Z"
+    "checked": "2026-11-01T10:30:34.036Z"
   },
   "ohuc/caffeinehealth": {
     "id": 1197384118,
@@ -2293,9 +2371,9 @@
       "pharmacokinetics",
       "sleep"
     ],
-    "stars": 146,
+    "stars": 147,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T14:28:31Z",
+    "pushedAt": "2026-10-31T16:51:36Z",
     "archived": false,
     "packageId": "com.uc.caffeine",
     "appName": "Caffeine Health",
@@ -2306,7 +2384,7 @@
     "icon": "assets/icons/ohuc--caffeinehealth.png",
     "iconSource": "https://raw.githubusercontent.com/ohuc/CaffeineHealth/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:34.025Z"
+    "checked": "2026-11-01T10:30:27.911Z"
   },
   "ossappscollective/oss-weather": {
     "id": 237026905,
@@ -2327,9 +2405,9 @@
       "oss",
       "weather"
     ],
-    "stars": 461,
+    "stars": 472,
     "license": "MIT",
-    "pushedAt": "2026-10-20T18:00:36Z",
+    "pushedAt": "2026-10-31T13:51:01Z",
     "archived": false,
     "packageId": "com.akylas.weather.widgetstestapplication",
     "appName": "OSS Weather",
@@ -2337,13 +2415,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "android/github/4.00.2/188",
-      "date": "2026-10-20T18:00:32Z"
+      "tag": "android/github/4.00.8/194",
+      "date": "2026-10-30T17:11:56Z"
     },
     "icon": "assets/icons/ossappscollective--oss-weather.png",
     "iconSource": "https://raw.githubusercontent.com/ossappscollective/oss-weather/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:55.071Z"
+    "checked": "2026-11-01T10:30:36.281Z"
   },
   "palisadoesfoundation/talawa": {
     "id": 171515096,
@@ -2358,9 +2436,9 @@
       "hacktoberfest",
       "open-source"
     ],
-    "stars": 487,
+    "stars": 485,
     "license": "GPL-3.0",
-    "pushedAt": "2026-08-05T13:57:21Z",
+    "pushedAt": "2026-10-28T15:45:22Z",
     "archived": false,
     "packageId": "com.example.talawa",
     "appName": "talawa",
@@ -2374,7 +2452,7 @@
     "icon": "assets/icons/palisadoesfoundation--talawa.png",
     "iconSource": "https://raw.githubusercontent.com/PalisadoesFoundation/talawa/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:58.137Z"
+    "checked": "2026-11-01T10:30:37.056Z"
   },
   "phsycologicalfudge/safehaven-store": {
     "id": 1223758420,
@@ -2389,9 +2467,9 @@
       "open-source",
       "security"
     ],
-    "stars": 211,
+    "stars": 220,
     "license": "MIT",
-    "pushedAt": "2026-10-19T09:05:43Z",
+    "pushedAt": "2026-10-24T15:03:42Z",
     "archived": false,
     "packageId": "com.colourswift.safehaven",
     "appName": "Safe Haven",
@@ -2402,7 +2480,7 @@
     "icon": "assets/icons/phsycologicalfudge--safehaven-store.png",
     "iconSource": "https://raw.githubusercontent.com/phsycologicalFudge/SafeHaven-Store/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:45.716Z"
+    "checked": "2026-11-01T10:30:31.910Z"
   },
   "potatameister/paperknife": {
     "id": 1142317761,
@@ -2425,7 +2503,7 @@
       "typescript",
       "zero-server"
     ],
-    "stars": 1514,
+    "stars": 1525,
     "license": "AGPL-3.0",
     "pushedAt": "2026-10-01T16:41:34Z",
     "archived": false,
@@ -2438,7 +2516,7 @@
     "icon": "assets/icons/potatameister--paperknife.png",
     "iconSource": "https://raw.githubusercontent.com/potatameister/PaperKnife/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:27.403Z"
+    "checked": "2026-11-01T10:30:25.966Z"
   },
   "pranshulgg/weathermaster": {
     "id": 815899373,
@@ -2462,9 +2540,9 @@
       "weather-api",
       "webview"
     ],
-    "stars": 3149,
+    "stars": 3154,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T12:12:56Z",
+    "pushedAt": "2026-10-31T18:26:26Z",
     "archived": false,
     "packageId": "com.pranshulgg.weather_master_app",
     "appName": "WeatherMaster",
@@ -2475,7 +2553,38 @@
     "icon": "assets/icons/pranshulgg--weathermaster.png",
     "iconSource": "https://raw.githubusercontent.com/PranshulGG/WeatherMaster/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:56.714Z"
+    "checked": "2026-11-01T10:30:36.351Z"
+  },
+  "predidit/kazumi": {
+    "id": 798049841,
+    "fullName": "Predidit/Kazumi",
+    "url": "https://github.com/Predidit/Kazumi",
+    "description": "基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。",
+    "homepage": "https://kazumi.app",
+    "topics": [
+      "android",
+      "cross-platform",
+      "danmaku",
+      "flutter",
+      "ios",
+      "linux-desktop",
+      "macos",
+      "windows"
+    ],
+    "stars": 40507,
+    "license": "GPL-3.0",
+    "pushedAt": "2026-10-31T09:30:43Z",
+    "archived": false,
+    "packageId": "com.predidit.kazumi",
+    "appName": "Kazumi",
+    "isApp": true,
+    "fdroid": true,
+    "izzy": false,
+    "release": null,
+    "icon": "assets/icons/predidit--kazumi.png",
+    "iconSource": "https://f-droid.org/repo/com.predidit.kazumi/en-US/icon.png",
+    "iconKind": "f-droid",
+    "checked": "2026-11-01T10:30:36.144Z"
   },
   "rama-io/mako": {
     "id": 1119454306,
@@ -2491,9 +2600,9 @@
       "open-source",
       "privacy-first"
     ],
-    "stars": 273,
+    "stars": 278,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-17T20:10:59Z",
+    "pushedAt": "2026-11-01T00:06:14Z",
     "archived": false,
     "packageId": "com.rama.mako",
     "appName": "Mako",
@@ -2504,7 +2613,7 @@
     "icon": "assets/icons/rama-io--mako.png",
     "iconSource": "https://raw.githubusercontent.com/rama-io/mako/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:42.489Z"
+    "checked": "2026-11-01T10:30:30.586Z"
   },
   "rawnaldclark/stash": {
     "id": 1191699186,
@@ -2532,9 +2641,9 @@
       "youtube-music",
       "yt-dlp"
     ],
-    "stars": 1383,
+    "stars": 1518,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T17:24:56Z",
+    "pushedAt": "2026-11-01T09:55:02Z",
     "archived": false,
     "packageId": "com.stash.app",
     "appName": "Stash",
@@ -2542,13 +2651,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v0.9.117",
-      "date": "2026-10-19T13:39:32Z"
+      "tag": "v0.9.122",
+      "date": "2026-10-31T17:24:49Z"
     },
     "icon": "assets/icons/rawnaldclark--stash.png",
     "iconSource": "https://raw.githubusercontent.com/rawnaldclark/Stash/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:17.100Z"
+    "checked": "2026-11-01T10:30:22.540Z"
   },
   "rinchao0721/melodia": {
     "id": 1344959297,
@@ -2573,9 +2682,9 @@
       "windows",
       "windows-11"
     ],
-    "stars": 287,
+    "stars": 350,
     "license": "MIT",
-    "pushedAt": "2026-10-20T13:47:27Z",
+    "pushedAt": "2026-10-30T16:24:48Z",
     "archived": false,
     "packageId": "com.lin0721.linmusic",
     "appName": "Melodia",
@@ -2583,13 +2692,55 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v1.13.0",
-      "date": "2026-10-11T06:06:49Z"
+      "tag": "v2.0.0",
+      "date": "2026-10-26T06:28:14Z"
     },
     "icon": "assets/icons/rinchao0721--melodia.png",
     "iconSource": "https://raw.githubusercontent.com/rinchao0721/Melodia/main/docs/images/app_icon.png",
     "iconKind": "repo-logo",
-    "checked": "2026-10-20T21:32:15.859Z"
+    "checked": "2026-11-01T10:30:22.709Z"
+  },
+  "rustdesk/rustdesk": {
+    "id": 299354207,
+    "fullName": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "description": "An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.",
+    "homepage": "https://rustdesk.com",
+    "topics": [
+      "android",
+      "anydesk",
+      "dart",
+      "flatpak",
+      "flutter",
+      "flutter-apps",
+      "ios",
+      "linux",
+      "macos",
+      "p2p",
+      "rdp",
+      "remote-control",
+      "remote-desktop",
+      "rust",
+      "rust-lang",
+      "teamviewer",
+      "vnc",
+      "wayland",
+      "windows"
+    ],
+    "stars": 127760,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-11-01T05:50:27Z",
+    "archived": false,
+    "packageId": "com.carriez.flutter_hbb",
+    "appName": "RustDesk",
+    "isApp": true,
+    "fdroid": true,
+    "izzy": false,
+    "release": null,
+    "icon": "assets/icons/rustdesk--rustdesk.png",
+    "iconSource": "https://raw.githubusercontent.com/rustdesk/rustdesk/master/fastlane/metadata/android/en-US/images/icon.png",
+    "iconKind": "store-metadata",
+    "checked": "2026-11-01T10:30:36.564Z"
   },
   "scribe-org/scribe-android": {
     "id": 412385439,
@@ -2621,7 +2772,7 @@
     ],
     "stars": 109,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T05:09:12Z",
+    "pushedAt": "2026-10-27T20:17:33Z",
     "archived": false,
     "packageId": "be.scri",
     "appName": "Scribe",
@@ -2632,7 +2783,7 @@
     "icon": "assets/icons/scribe-org--scribe-android.png",
     "iconSource": "https://raw.githubusercontent.com/scribe-org/Scribe-Android/main/app/src/conjugate/ic_launcher-playstore.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:43.525Z"
+    "checked": "2026-11-01T10:30:31.400Z"
   },
   "siddhesh2377/toolneuron": {
     "id": 992797528,
@@ -2646,7 +2797,7 @@
       "open-source",
       "privacy-first"
     ],
-    "stars": 475,
+    "stars": 479,
     "license": "MIT",
     "pushedAt": "2026-05-18T03:57:32Z",
     "archived": false,
@@ -2662,7 +2813,7 @@
     "icon": "assets/icons/siddhesh2377--toolneuron.png",
     "iconSource": "https://raw.githubusercontent.com/Siddhesh2377/ToolNeuron/re-write/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
     "iconKind": "launcher",
-    "checked": "2026-10-20T21:32:47.303Z"
+    "checked": "2026-11-01T10:30:32.471Z"
   },
   "sidhant947/puzzle": {
     "id": 1226772100,
@@ -2689,9 +2840,9 @@
       "windows",
       "windows-gaming"
     ],
-    "stars": 262,
+    "stars": 275,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T18:36:45Z",
+    "pushedAt": "2026-10-28T06:48:08Z",
     "archived": false,
     "packageId": "com.sidhant.puzzle",
     "appName": "Puzzle Games",
@@ -2702,7 +2853,7 @@
     "icon": "assets/icons/sidhant947--puzzle.png",
     "iconSource": "https://raw.githubusercontent.com/sidhant947/Puzzle/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:59.713Z"
+    "checked": "2026-11-01T10:30:37.679Z"
   },
   "simonoppowa/opennutritracker": {
     "id": 539619974,
@@ -2731,9 +2882,9 @@
       "open-source",
       "privacy"
     ],
-    "stars": 2727,
+    "stars": 2785,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T21:05:40Z",
+    "pushedAt": "2026-10-31T07:11:30Z",
     "archived": false,
     "packageId": "com.opennutritracker.ont.opennutritracker",
     "appName": "OpenNutriTracker Food Diary",
@@ -2741,13 +2892,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v2.4.0",
-      "date": "2026-09-26T21:58:39Z"
+      "tag": "v2.6.0",
+      "date": "2026-10-30T20:32:44Z"
     },
     "icon": "assets/icons/simonoppowa--opennutritracker.png",
     "iconSource": "https://raw.githubusercontent.com/simonoppowa/OpenNutriTracker/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:35.072Z"
+    "checked": "2026-11-01T10:30:28.193Z"
   },
   "soodok/deepseek-harness-local-android": {
     "id": 1347366175,
@@ -2777,9 +2928,9 @@
       "self-hosted",
       "termux-alternative"
     ],
-    "stars": 303,
+    "stars": 429,
     "license": "MIT",
-    "pushedAt": "2026-10-20T16:00:32Z",
+    "pushedAt": "2026-11-01T09:23:35Z",
     "archived": false,
     "packageId": "app.dsh.mobile",
     "appName": "DSH Mobile",
@@ -2787,13 +2938,13 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v1.4.2",
-      "date": "2026-10-20T16:00:32Z"
+      "tag": "v1.4.76",
+      "date": "2026-10-31T03:51:05Z"
     },
     "icon": "assets/icons/soodok--deepseek-harness-local-android.svg",
     "iconSource": null,
     "iconKind": "monogram",
-    "checked": "2026-10-20T21:32:48.743Z"
+    "checked": "2026-11-01T10:30:33.857Z"
   },
   "stellarsand/iyps": {
     "id": 446999832,
@@ -2835,7 +2986,7 @@
     "icon": "assets/icons/stellarsand--iyps.png",
     "iconSource": "https://raw.githubusercontent.com/StellarSand/IYPS/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:07.665Z"
+    "checked": "2026-11-01T10:30:19.651Z"
   },
   "stellarsand/password-monitor": {
     "id": 801010646,
@@ -2864,7 +3015,7 @@
       "security",
       "security-tools"
     ],
-    "stars": 123,
+    "stars": 121,
     "license": "GPL-3.0",
     "pushedAt": "2026-10-12T00:41:29Z",
     "archived": false,
@@ -2877,7 +3028,7 @@
     "icon": "assets/icons/stellarsand--password-monitor.png",
     "iconSource": "https://raw.githubusercontent.com/StellarSand/Password-Monitor/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:08.891Z"
+    "checked": "2026-11-01T10:30:20.134Z"
   },
   "super-productivity/super-productivity": {
     "id": 78243781,
@@ -2907,9 +3058,9 @@
       "todo",
       "windows"
     ],
-    "stars": 23016,
+    "stars": 23318,
     "license": "MIT",
-    "pushedAt": "2026-10-20T18:52:08Z",
+    "pushedAt": "2026-11-01T10:09:45Z",
     "archived": false,
     "packageId": "com.superproductivity.superproductivity",
     "appName": "Super Productivity",
@@ -2920,7 +3071,46 @@
     "icon": "assets/icons/super-productivity--super-productivity.png",
     "iconSource": "https://f-droid.org/repo/com.superproductivity.superproductivity/en-US/icon.png",
     "iconKind": "f-droid",
-    "checked": "2026-10-20T21:32:27.731Z"
+    "checked": "2026-11-01T10:30:26.347Z"
+  },
+  "team-spotube/spotube": {
+    "id": 338719962,
+    "fullName": "team-spotube/spotube",
+    "url": "https://github.com/team-spotube/spotube",
+    "description": "🎧 Open source music streaming app! Available for both desktop & mobile!",
+    "homepage": "https://spotube.cc/",
+    "topics": [
+      "android",
+      "android-client",
+      "android-music-player",
+      "desktop-client",
+      "fdroid",
+      "flutter",
+      "flutter-desktop",
+      "linux",
+      "macos",
+      "music",
+      "music-player",
+      "windows",
+      "youtube"
+    ],
+    "stars": 50526,
+    "license": "AGPL-3.0",
+    "pushedAt": "2026-10-31T17:03:14Z",
+    "archived": false,
+    "packageId": "org.spotube.spotube",
+    "appName": "Spotube",
+    "isApp": true,
+    "fdroid": false,
+    "izzy": false,
+    "release": {
+      "tag": "v6.0.0-beta.0",
+      "date": "2026-10-30T12:01:45Z"
+    },
+    "icon": "assets/icons/team-spotube--spotube.png",
+    "iconSource": "https://raw.githubusercontent.com/team-spotube/spotube/master/composeApp/src/androidMain/ic_launcher-playstore.png",
+    "iconKind": "launcher",
+    "checked": "2026-11-01T10:30:22.653Z"
   },
   "teamnewpipe/newpipe": {
     "id": 41889031,
@@ -2941,9 +3131,9 @@
       "watch",
       "youtube-video"
     ],
-    "stars": 40223,
+    "stars": 40387,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T19:30:52Z",
+    "pushedAt": "2026-10-31T10:27:07Z",
     "archived": false,
     "packageId": "org.schabi.newpipe",
     "appName": null,
@@ -2954,7 +3144,7 @@
     "icon": "assets/icons/teamnewpipe--newpipe.png",
     "iconSource": "https://raw.githubusercontent.com/TeamNewPipe/NewPipe/dev/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:18.818Z"
+    "checked": "2026-11-01T10:30:23.420Z"
   },
   "techlore/plexus-app": {
     "id": 470453982,
@@ -2983,9 +3173,9 @@
       "plexus",
       "roms"
     ],
-    "stars": 498,
+    "stars": 497,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T10:46:43Z",
+    "pushedAt": "2026-10-22T23:58:00Z",
     "archived": false,
     "packageId": "tech.techlore.plexus",
     "appName": "Plexus",
@@ -2996,7 +3186,7 @@
     "icon": "assets/icons/techlore--plexus-app.png",
     "iconSource": "https://raw.githubusercontent.com/techlore/Plexus-app/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:08.860Z"
+    "checked": "2026-11-01T10:30:20.258Z"
   },
   "termux/termux-app": {
     "id": 44804216,
@@ -3011,7 +3201,7 @@
       "terminal",
       "termux"
     ],
-    "stars": 63066,
+    "stars": 63867,
     "license": null,
     "pushedAt": "2026-09-26T05:11:44Z",
     "archived": false,
@@ -3024,7 +3214,7 @@
     "icon": "assets/icons/termux--termux-app.png",
     "iconSource": "https://raw.githubusercontent.com/termux/termux-app/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:52.168Z"
+    "checked": "2026-11-01T10:30:34.671Z"
   },
   "timer-machine/timer-machine-android": {
     "id": 413048885,
@@ -3043,7 +3233,7 @@
       "opensource",
       "timer"
     ],
-    "stars": 369,
+    "stars": 370,
     "license": "GPL-3.0",
     "pushedAt": "2026-09-12T00:44:41Z",
     "archived": false,
@@ -3059,7 +3249,7 @@
     "icon": "assets/icons/timer-machine--timer-machine-android.png",
     "iconSource": "https://raw.githubusercontent.com/timer-machine/timer-machine-android/develop/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:29.506Z"
+    "checked": "2026-11-01T10:30:26.601Z"
   },
   "tonyantony300/dashbeam": {
     "id": 1078137951,
@@ -3081,7 +3271,7 @@
       "web",
       "windows"
     ],
-    "stars": 10058,
+    "stars": 10165,
     "license": "AGPL-3.0",
     "pushedAt": "2026-10-19T17:58:05Z",
     "archived": false,
@@ -3097,7 +3287,7 @@
     "icon": "assets/icons/tonyantony300--dashbeam.png",
     "iconSource": "https://raw.githubusercontent.com/tonyantony300/dashbeam/main/src-tauri/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:11.120Z"
+    "checked": "2026-11-01T10:30:21.053Z"
   },
   "trackercontrol/tracker-control-android": {
     "id": 220825189,
@@ -3110,9 +3300,9 @@
       "privacy",
       "tracking-protection"
     ],
-    "stars": 2699,
+    "stars": 2716,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T07:40:15Z",
+    "pushedAt": "2026-11-01T06:04:08Z",
     "archived": false,
     "packageId": "net.kollnig.missioncontrol",
     "appName": "TrackerControl",
@@ -3123,7 +3313,7 @@
     "icon": "assets/icons/trackercontrol--tracker-control-android.png",
     "iconSource": "https://raw.githubusercontent.com/TrackerControl/tracker-control-android/master/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:08.862Z"
+    "checked": "2026-11-01T10:30:20.119Z"
   },
   "urikdev/urik": {
     "id": 1065895217,
@@ -3142,7 +3332,7 @@
       "privacy",
       "swipe-typing"
     ],
-    "stars": 413,
+    "stars": 414,
     "license": "GPL-3.0",
     "pushedAt": "2026-09-13T21:24:47Z",
     "archived": false,
@@ -3155,7 +3345,7 @@
     "icon": "assets/icons/urikdev--urik.png",
     "iconSource": "https://raw.githubusercontent.com/urikdev/Urik/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:43.335Z"
+    "checked": "2026-11-01T10:30:31.183Z"
   },
   "videolan/vlc-android": {
     "id": 123426934,
@@ -3171,9 +3361,9 @@
       "videolan",
       "vlc"
     ],
-    "stars": 4092,
+    "stars": 4126,
     "license": "GPL-2.0",
-    "pushedAt": "2026-10-16T06:18:15Z",
+    "pushedAt": "2026-10-29T07:59:44Z",
     "archived": false,
     "packageId": "org.videolan.vlc",
     "appName": null,
@@ -3184,7 +3374,7 @@
     "icon": "assets/icons/videolan--vlc-android.png",
     "iconSource": "https://f-droid.org/repo/org.videolan.vlc/en-US/icon.png",
     "iconKind": "f-droid",
-    "checked": "2026-10-20T21:32:19.643Z"
+    "checked": "2026-11-01T10:30:23.923Z"
   },
   "xlexip/adaptive-theme": {
     "id": 879389086,
@@ -3214,9 +3404,9 @@
       "shizuku-app",
       "theme-switcher"
     ],
-    "stars": 293,
+    "stars": 305,
     "license": "GPL-3.0",
-    "pushedAt": "2026-10-20T17:51:33Z",
+    "pushedAt": "2026-10-29T17:20:41Z",
     "archived": false,
     "packageId": "dev.lexip.hecate",
     "appName": "Adaptive Theme",
@@ -3227,7 +3417,7 @@
     "icon": "assets/icons/xlexip--adaptive-theme.png",
     "iconSource": "https://raw.githubusercontent.com/xLexip/Adaptive-Theme/main/app/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:43.843Z"
+    "checked": "2026-11-01T10:30:31.328Z"
   },
   "yuga-hashimoto/openclaw-assistant": {
     "id": 1146345539,
@@ -3268,7 +3458,7 @@
     "icon": "assets/icons/yuga-hashimoto--openclaw-assistant.svg",
     "iconSource": null,
     "iconKind": "monogram",
-    "checked": "2026-10-20T21:32:49.316Z"
+    "checked": "2026-11-01T10:30:34.592Z"
   },
   "yuxino/mimi": {
     "id": 1308836501,
@@ -3297,9 +3487,9 @@
       "ubuntu",
       "windows"
     ],
-    "stars": 723,
+    "stars": 767,
     "license": "MIT",
-    "pushedAt": "2026-10-20T18:07:03Z",
+    "pushedAt": "2026-10-30T13:49:06Z",
     "archived": false,
     "packageId": "app.yuxino.mimi.android",
     "appName": "Mimi",
@@ -3307,45 +3497,45 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v1.6.6",
-      "date": "2026-10-20T18:04:08Z"
+      "tag": "v1.6.14",
+      "date": "2026-10-29T13:59:44Z"
     },
     "icon": "assets/icons/yuxino--mimi.png",
     "iconSource": "https://raw.githubusercontent.com/yuxino/Mimi/main/src-tauri/icons/icon.png",
     "iconKind": "repo-logo",
-    "checked": "2026-10-20T21:32:19.753Z"
+    "checked": "2026-11-01T10:30:23.925Z"
   },
   "zhinfinity/mpv-infinity": {
     "id": 1337342898,
     "fullName": "ZHINFINITY/Mpv-infinity",
     "url": "https://github.com/ZHINFINITY/Mpv-infinity",
-    "description": "Ad-free Android media player powered by MPV and Media3.",
+    "description": "Ad-free Android video and music player with MPV and Media3 engines, smooth-motion frame interpolation up to 120 fps, Liquid Glass UI, HDR/Dolby Vision, AI subtitle translation, Jellyfin and Seerr.",
     "homepage": "",
     "topics": [
-      "agpl",
       "android",
       "android-media-player",
       "audio-player",
       "dolby-vision",
       "exoplayer",
+      "frame-interpolation",
       "hdr",
       "hdr10-plus",
       "jellyfin",
       "jetpack-compose",
       "kotlin",
       "libmpv",
+      "liquid-glass",
       "media-player",
       "media3",
       "mpv",
-      "open-source",
       "seerr",
       "subtitles",
       "video-playback",
       "video-player"
     ],
-    "stars": 137,
+    "stars": 175,
     "license": null,
-    "pushedAt": "2026-10-20T21:30:28Z",
+    "pushedAt": "2026-10-27T02:43:28Z",
     "archived": false,
     "packageId": "app.infinity.mpvz",
     "appName": "Mpv∞",
@@ -3353,12 +3543,12 @@
     "fdroid": false,
     "izzy": false,
     "release": {
-      "tag": "v2.1.5",
-      "date": "2026-10-01T11:03:26Z"
+      "tag": "v2.2.3",
+      "date": "2026-10-26T21:27:30Z"
     },
     "icon": "assets/icons/zhinfinity--mpv-infinity.png",
     "iconSource": "https://raw.githubusercontent.com/ZHINFINITY/Mpv-infinity/main/fastlane/metadata/android/en-US/images/icon.png",
     "iconKind": "store-metadata",
-    "checked": "2026-10-20T21:32:21.148Z"
+    "checked": "2026-11-01T10:30:24.038Z"
   }
 }

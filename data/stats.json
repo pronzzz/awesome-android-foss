@@ -1,13 +1,13 @@
 {
-  "apps": 97,
+  "apps": 102,
   "categories": 18,
-  "fdroid": 54,
+  "fdroid": 56,
   "izzyondroid": 38,
   "byCategory": {
-    "privacy": 10,
+    "privacy": 11,
     "communication": 4,
     "browsers": 3,
-    "music": 8,
+    "music": 9,
     "video": 7,
     "photos": 5,
     "productivity": 10,
@@ -18,7 +18,7 @@
     "ai": 5,
     "cloud": 4,
     "development": 2,
-    "utilities": 7,
+    "utilities": 10,
     "lifestyle": 3,
     "finance": 1,
     "games": 2
