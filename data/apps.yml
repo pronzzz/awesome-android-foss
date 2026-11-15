@@ -664,3 +664,8 @@
   category: games
   description: A suite of 300+ minimalist puzzle games.
   added: 2026-06-28
+- name: NIDO
+  repo: Nido007-cmyk/Nido
+  category: ai
+  description: Personal AI assistant that runs fully offline on the phone, with on-device models, encrypted memory and documents, and no accounts.
+  added: 2026-11-15
