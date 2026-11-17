@@ -664,3 +664,9 @@
   category: games
   description: A suite of 300+ minimalist puzzle games.
   added: 2026-06-28
+- name: Maglev
+  repo: Kaos599/Maglev
+  category: browsers
+  description: Downloads torrents, ordinary links in several parts and videos found on web pages in one app, with built-in torrent search.
+  homepage: https://harshdayal.dev/maglev
+  added: 2026-11-17
