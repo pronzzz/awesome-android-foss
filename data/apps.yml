@@ -664,3 +664,10 @@
   category: games
   description: A suite of 300+ minimalist puzzle games.
   added: 2026-06-28
+
+- name: SoundVisualizer
+  repo: SOVIS-TEAM/SoundVisualizer-Android
+  category: utilities
+  description: Shows the sound your phone plays as a glow on the screen edges, with its direction, loudness and type, for deaf and hard-of-hearing people.
+  homepage: https://sovis-team.github.io/en/
+  added: 2026-11-19
